@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="332.00012"
+   height="71"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="conectores.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:export-filename="/home/davidh/Escritorio/ppvTimeline/images/conectores.png"
+   inkscape:export-xdpi="64"
+   inkscape:export-ydpi="64">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="731"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="1.6206965"
+     inkscape:cx="118.22251"
+     inkscape:cy="14.414389"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg27"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.7;fill-rule:nonzero;stroke:#820000;stroke-width:1.91888225;stroke-opacity:1"
+     width="330.08124"
+     height="69.081116"
+     x="0.95944113"
+     y="0.95944113"
+     rx="8.2750168"
+     ry="9.010581"
+     id="rect4" />
+  <g
+     id="g834"
+     transform="translate(5.1749237,0.40436426)">
+    <line
+       id="line10"
+       style="opacity:0.6;stroke:#820000;stroke-width:2;stroke-dasharray:2, 2;stroke-opacity:1"
+       y2="48.723354"
+       x2="64"
+       y1="48.723354"
+       x1="20" />
+    <text
+       id="text821"
+       y="26.106583"
+       x="18.719999"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
+         y="26.106583"
+         x="18.719999"
+         id="tspan819"
+         sodipodi:role="line">Leyenda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="72.191185"
+       y="52.551353"
+       id="text825"><tspan
+         style="font-size:14.66666698px"
+         sodipodi:role="line"
+         id="tspan823"
+         x="72.191185"
+         y="52.551353">Fusión: Un partido se adhiere a otro.</tspan></text>
+  </g>
+</svg>
