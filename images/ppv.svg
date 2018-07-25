@@ -78,7 +78,7 @@
     <use xlink:href='#__connectors_start' fill='#CB9517'  />
   </marker>
   <marker id='__connector_13' stroke='none' markerUnits='userSpaceOnUse' style='overflow:visible;'>
-    <use xlink:href='#__connectors_start' fill='#000000'  />
+    <use xlink:href='#__connectors_start' fill='#0066FF'  />
   </marker>
 <rect id='__fadeout' height='1' width='5' y='-0.5' x='0'/>  <linearGradient id='__fadeout_Agrupación__Revolucionaria__de__Izquierda__(ARDI)' x1='0' y1='0' x2='5' y2='0' gradientUnits='userSpaceOnUse'>
     <stop stop-color='#110504' offset='0' stop-opacity='1' />
@@ -271,6 +271,19 @@
   </marker>
 
 <!-- BEGIN additional SVG images - definitions -->
+    <marker
+       id="__stop_AD-Oposición"
+       markerWidth="5"
+       markerHeight="1"
+       style="overflow:visible">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#__fadeout"
+         id="use95" />
+    </marker>
 
 <!-- END additional SVG images - definitions -->
 
@@ -1394,7 +1407,7 @@ style='opacity:0.6;' >
   <line x1='6410' y1='1809' x2='6410' y2='271' stroke='#F78F1E' stroke-width='3' stroke-dasharray='3,3' marker-start='url(#__connector_10)' />
   <line x1='503' y1='75' x2='503' y2='95' stroke='#837052' stroke-width='3' stroke-dasharray='3,3' marker-start='url(#__connector_11)' />
   <line x1='556' y1='97' x2='556' y2='117' stroke='#CB9517' stroke-width='3' stroke-dasharray='3,3' marker-start='url(#__connector_12)' />
-  <line x1='945' y1='119' x2='945' y2='205' stroke='#000000' stroke-width='3' stroke-dasharray='3,3' marker-start='url(#__connector_13)' />
+  <line x1='945' y1='119' x2='945' y2='205' stroke='#0066FF' stroke-width='3' stroke-dasharray='3,3' marker-start='url(#__connector_13)' />
 </g>
 
 <g inkscape:label='Lines' inkscape:groupmode='layer' id='layer_lines'
@@ -1923,61 +1936,111 @@ style='opacity:0.6;' >
 
 <g inkscape:label='Infobox' inkscape:groupmode='layer' id='layer_infobox'
  style='stroke:none;fill:#fff;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
-  <rect x='30' y='1900' width='520' height='220' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
-  <rect x='30' y='1900' width='520' height='220' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
-  <text x='41' y='1938'><tspan style='font-size:32px;font-weight:bold;'>Partidos Políticos de Venezuela</tspan></text>
-  <text x='41' y='1961'><tspan style='font-size:16px;'>Desde 1930 a 2018</tspan></text>
-  <text x='41' y='1981'><tspan style='font-size:16px;'></tspan></text>
-  <text x='41' y='2001'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 0.1</tspan></tspan></text>
-  <text x='41' y='2021'><tspan style='font-size:16px;'></tspan></text>
-  <text x='41' y='2041'><tspan style='font-size:16px;'>© David Hernández</tspan></text>
-  <text x='41' y='2061'><tspan style='font-size:16px;'></tspan></text>
-  <text x='41' y='2081'><tspan style='font-size:16px;'>Esta obra está bajo una Licencia</tspan></text>
-  <text x='41' y='2101'><tspan style='font-size:16px;'>Creative Commons Atribución 3.0 Internacional.</tspan></text>
+  <rect x='75' y='1900' width='520' height='220' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
+  <rect x='75' y='1900' width='520' height='220' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
+  <text x='86' y='1938'><tspan style='font-size:32px;font-weight:bold;'>Partidos Políticos de Venezuela</tspan></text>
+  <text x='86' y='1961'><tspan style='font-size:16px;'>Desde 1930 a 2018</tspan></text>
+  <text x='86' y='1981'><tspan style='font-size:16px;'></tspan></text>
+  <text x='86' y='2001'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 0.1</tspan></tspan></text>
+  <text x='86' y='2021'><tspan style='font-size:16px;'></tspan></text>
+  <text x='86' y='2041'><tspan style='font-size:16px;'>© David Hernández</tspan></text>
+  <text x='86' y='2061'><tspan style='font-size:16px;'></tspan></text>
+  <text x='86' y='2081'><tspan style='font-size:16px;'>Esta obra está bajo una Licencia</tspan></text>
+  <text x='86' y='2101'><tspan style='font-size:16px;'>Creative Commons Atribución 3.0 Internacional.</tspan></text>
 </g>
 
 <!-- BEGIN additional images -->
 
 <g inkscape:label='Included PNG Images' inkscape:groupmode='layer' id='layer_included_png'>
-  <image id='__png_0' x='50' y='273' width='-35' height='47'
-    xlink:href='data:image/png;base64,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' />
 </g>
 
 <g inkscape:label='Included SVG Images' inkscape:groupmode='layer' id='layer_included_svg'>
+  <g transform='translate(85,873)' >
+  <g
+     id="g886">
+    <rect
+       id="rect4"
+       ry="14.385121"
+       rx="9.9674072"
+       y="1.2055712"
+       x="1.2055712"
+       height="110.28592"
+       width="397.58887"
+       style="fill:#ffffff;fill-opacity:0.7;fill-rule:nonzero;stroke:#820000;stroke-width:2.41114235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       id="line10"
+       style="opacity:0.6;stroke:#820000;stroke-width:3.47213364;stroke-dasharray:3.47213336, 3.47213336;stroke-opacity:1"
+       y2="57.068626"
+       x2="136.90125"
+       y1="57.068626"
+       x1="26.901236" />
+    <text
+       id="text821"
+       y="29.819813"
+       x="25.358105"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:1.20557117"
+         y="29.819813"
+         x="25.358105"
+         id="tspan819"
+         sodipodi:role="line">Leyenda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
+       x="168.01782"
+       y="63.336792"
+       id="text825"><tspan
+         style="font-size:17.6817112px;stroke-width:1.20557117"
+         sodipodi:role="line"
+         id="tspan823"
+         x="168.01782"
+         y="63.336792">Partido se fusiona con otro.</tspan></text>
+    <g
+       transform="matrix(1.4374244,0,0,1.4374244,35.584083,-0.44449219)"
+       id="g895">
+      <path
+         inkscape:connector-curvature="0"
+         id="__line_AD-Oposición"
+         d="m -3.1412731,61.168647 v 0 H 70.485207"
+         style="fill:#004455;stroke:#216778;stroke-width:2.0709188;stroke-opacity:1;marker-end:url(#__stop_AD-Oposición)"
+         sodipodi:nodetypes="ccc" />
+      <circle
+         style="fill:#216778;stroke:none;stroke-width:0.41418374"
+         id="__dot_AD-Oposición"
+         cx="-3.141273"
+         cy="61.168648"
+         r="2.8992863" />
+      <circle
+         style="fill:#216778;stroke:none;stroke-width:0.41418374"
+         cx="38.207172"
+         cy="61.168648"
+         r="2.0709188"
+         id="circle2608" />
+      <text
+         style="font-size:5.79857254px;font-family:'Liberation Sans', Arial, Helvetica;-inkscape-font-specification:'Liberation Sans, Arial, Helvetica';fill:#000000;stroke:none;stroke-width:0.41418374"
+         x="-0.24198687"
+         y="59.097729"
+         id="text2733">NombreA</text>
+      <text
+         style="font-size:5.79857254px;font-family:'Liberation Sans', Arial, Helvetica;-inkscape-font-specification:'Liberation Sans, Arial, Helvetica';fill:#000000;stroke:none;stroke-width:0.41418374"
+         x="40.416866"
+         y="59.097729"
+         id="text2735">NombreB</text>
+    </g>
+    <text
+       id="text904"
+       y="91.298004"
+       x="168.01782"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
+       xml:space="preserve"><tspan
+         y="91.298004"
+         x="168.01782"
+         id="tspan902"
+         sodipodi:role="line"
+         style="font-size:17.6817112px;stroke-width:1.20557117">Partido cambia de nombre.</tspan></text>
+  </g>
+  </g>
 </g>
 
 <!-- END additional images -->

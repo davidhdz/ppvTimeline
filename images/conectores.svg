@@ -5,17 +5,18 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="332.00012"
-   height="71"
+   width="400"
+   height="112.69706"
    version="1.1"
    id="svg27"
    sodipodi:docname="conectores.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   inkscape:export-filename="/home/davidh/Escritorio/ppvTimeline/images/conectores.png"
-   inkscape:export-xdpi="64"
-   inkscape:export-ydpi="64">
+   inkscape:export-filename="/home/davidh/Repos/ppvTimeline/images/conectores.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <metadata
      id="metadata31">
     <rdf:RDF>
@@ -24,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +42,9 @@
      inkscape:window-height="731"
      id="namedview29"
      showgrid="false"
-     inkscape:zoom="1.6206965"
-     inkscape:cx="118.22251"
-     inkscape:cy="14.414389"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="216.2115"
+     inkscape:cy="6.0968796"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="0"
@@ -51,49 +52,107 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <defs
-     id="defs2" />
-  <rect
-     style="fill:#ffffff;fill-opacity:0.7;fill-rule:nonzero;stroke:#820000;stroke-width:1.91888225;stroke-opacity:1"
-     width="330.08124"
-     height="69.081116"
-     x="0.95944113"
-     y="0.95944113"
-     rx="8.2750168"
-     ry="9.010581"
-     id="rect4" />
+     id="defs2">
+    <marker
+       id="__stop_AD-Oposición"
+       markerWidth="5"
+       markerHeight="1"
+       style="overflow:visible">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#__fadeout"
+         id="use95" />
+    </marker>
+  </defs>
   <g
-     id="g834"
-     transform="translate(5.1749237,0.40436426)">
+     id="g886">
+    <rect
+       id="rect4"
+       ry="14.385121"
+       rx="9.9674072"
+       y="1.2055712"
+       x="1.2055712"
+       height="110.28592"
+       width="397.58887"
+       style="fill:#ffffff;fill-opacity:0.7;fill-rule:nonzero;stroke:#820000;stroke-width:2.41114235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <line
        id="line10"
-       style="opacity:0.6;stroke:#820000;stroke-width:2;stroke-dasharray:2, 2;stroke-opacity:1"
-       y2="48.723354"
-       x2="64"
-       y1="48.723354"
-       x1="20" />
+       style="opacity:0.6;stroke:#820000;stroke-width:3.47213364;stroke-dasharray:3.47213336, 3.47213336;stroke-opacity:1"
+       y2="57.068626"
+       x2="136.90125"
+       y1="57.068626"
+       x1="26.901236" />
     <text
        id="text821"
-       y="26.106583"
-       x="18.719999"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       y="29.819813"
+       x="25.358105"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
-         y="26.106583"
-         x="18.719999"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:1.20557117"
+         y="29.819813"
+         x="25.358105"
          id="tspan819"
          sodipodi:role="line">Leyenda</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="72.191185"
-       y="52.551353"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
+       x="168.01782"
+       y="63.336792"
        id="text825"><tspan
-         style="font-size:14.66666698px"
+         style="font-size:17.6817112px;stroke-width:1.20557117"
          sodipodi:role="line"
          id="tspan823"
-         x="72.191185"
-         y="52.551353">Fusión: Un partido se adhiere a otro.</tspan></text>
+         x="168.01782"
+         y="63.336792">Partido se fusiona con otro.</tspan></text>
+    <g
+       transform="matrix(1.4374244,0,0,1.4374244,35.584083,-0.44449219)"
+       id="g895">
+      <path
+         inkscape:connector-curvature="0"
+         id="__line_AD-Oposición"
+         d="m -3.1412731,61.168647 v 0 H 70.485207"
+         style="fill:#004455;stroke:#216778;stroke-width:2.0709188;stroke-opacity:1;marker-end:url(#__stop_AD-Oposición)"
+         sodipodi:nodetypes="ccc" />
+      <circle
+         style="fill:#216778;stroke:none;stroke-width:0.41418374"
+         id="__dot_AD-Oposición"
+         cx="-3.141273"
+         cy="61.168648"
+         r="2.8992863" />
+      <circle
+         style="fill:#216778;stroke:none;stroke-width:0.41418374"
+         cx="38.207172"
+         cy="61.168648"
+         r="2.0709188"
+         id="circle2608" />
+      <text
+         style="font-size:5.79857254px;font-family:'Liberation Sans', Arial, Helvetica;-inkscape-font-specification:'Liberation Sans, Arial, Helvetica';fill:#000000;stroke:none;stroke-width:0.41418374"
+         x="-0.24198687"
+         y="59.097729"
+         id="text2733">NombreA</text>
+      <text
+         style="font-size:5.79857254px;font-family:'Liberation Sans', Arial, Helvetica;-inkscape-font-specification:'Liberation Sans, Arial, Helvetica';fill:#000000;stroke:none;stroke-width:0.41418374"
+         x="40.416866"
+         y="59.097729"
+         id="text2735">NombreB</text>
+    </g>
+    <text
+       id="text904"
+       y="91.298004"
+       x="168.01782"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
+       xml:space="preserve"><tspan
+         y="91.298004"
+         x="168.01782"
+         id="tspan902"
+         sodipodi:role="line"
+         style="font-size:17.6817112px;stroke-width:1.20557117">Partido cambia de nombre.</tspan></text>
   </g>
 </svg>
