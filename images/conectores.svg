@@ -43,8 +43,8 @@
      id="namedview29"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="216.2115"
-     inkscape:cy="6.0968796"
+     inkscape:cx="178.70324"
+     inkscape:cy="62.37825"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="0"
@@ -71,88 +71,90 @@
          id="use95" />
     </marker>
   </defs>
+  <rect
+     style="fill:#ffffff;fill-opacity:0.7;fill-rule:nonzero;stroke:#820000;stroke-width:2.41114235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     width="397.58887"
+     height="110.28592"
+     x="1.2055712"
+     y="1.2055712"
+     rx="9.9674072"
+     ry="14.385121"
+     id="rect4" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
+     x="25.358105"
+     y="29.819813"
+     id="text821"><tspan
+       sodipodi:role="line"
+       id="tspan819"
+       x="25.358105"
+       y="29.819813"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:1.20557117">Leyenda</tspan></text>
+  <text
+     id="text825"
+     y="63.336792"
+     x="168.01782"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
+     xml:space="preserve"><tspan
+       y="63.336792"
+       x="168.01782"
+       id="tspan823"
+       sodipodi:role="line"
+       style="font-size:17.6817112px;stroke-width:1.20557117">Partido se fusiona con otro.</tspan></text>
+  <text
+     style="font-size:8.33500957px;font-family:'Liberation Sans', Arial, Helvetica;-inkscape-font-specification:'Liberation Sans, Arial, Helvetica';fill:#000000;stroke:none;stroke-width:0.59535784"
+     x="35.236244"
+     y="84.504028"
+     id="text2733">NombreA</text>
+  <text
+     style="font-size:8.33500957px;font-family:'Liberation Sans', Arial, Helvetica;-inkscape-font-specification:'Liberation Sans, Arial, Helvetica';fill:#000000;stroke:none;stroke-width:0.59535784"
+     x="93.680275"
+     y="84.504028"
+     id="text2735">NombreB</text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
+     x="168.01782"
+     y="91.298004"
+     id="text904"><tspan
+       style="font-size:17.6817112px;stroke-width:1.20557117"
+       sodipodi:role="line"
+       id="tspan902"
+       x="168.01782"
+       y="91.298004">Partido cambia de nombre.</tspan></text>
+  <circle
+     style="fill:#216778;fill-opacity:1;stroke:none;stroke-width:0.59535712"
+     id="__dot_Unidad__Socialista__de__Izquierda"
+     cx="31.068731"
+     cy="87.480812"
+     r="4.1675" />
+  <circle
+     style="fill:#216778;fill-opacity:1;stroke:none;stroke-width:0.59539998"
+     cx="90.504204"
+     cy="87.480812"
+     r="2.977"
+     id="circle2723" />
+  <path
+     style="fill:#216778;fill-opacity:1;stroke:#216778;stroke-width:2.977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 32.909554,87.480808 H 142.99219"
+     id="path869"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
   <g
-     id="g886">
-    <rect
-       id="rect4"
-       ry="14.385121"
-       rx="9.9674072"
-       y="1.2055712"
-       x="1.2055712"
-       height="110.28592"
-       width="397.58887"
-       style="fill:#ffffff;fill-opacity:0.7;fill-rule:nonzero;stroke:#820000;stroke-width:2.41114235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     id="g893">
     <line
        id="line10"
        style="opacity:0.6;stroke:#820000;stroke-width:3.47213364;stroke-dasharray:3.47213336, 3.47213336;stroke-opacity:1"
-       y2="57.068626"
-       x2="136.90125"
-       y1="57.068626"
-       x1="26.901236" />
-    <text
-       id="text821"
-       y="29.819813"
-       x="25.358105"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:1.20557117"
-         y="29.819813"
-         x="25.358105"
-         id="tspan819"
-         sodipodi:role="line">Leyenda</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
-       x="168.01782"
-       y="63.336792"
-       id="text825"><tspan
-         style="font-size:17.6817112px;stroke-width:1.20557117"
-         sodipodi:role="line"
-         id="tspan823"
-         x="168.01782"
-         y="63.336792">Partido se fusiona con otro.</tspan></text>
-    <g
-       transform="matrix(1.4374244,0,0,1.4374244,35.584083,-0.44449219)"
-       id="g895">
-      <path
-         inkscape:connector-curvature="0"
-         id="__line_AD-Oposición"
-         d="m -3.1412731,61.168647 v 0 H 70.485207"
-         style="fill:#004455;stroke:#216778;stroke-width:2.0709188;stroke-opacity:1;marker-end:url(#__stop_AD-Oposición)"
-         sodipodi:nodetypes="ccc" />
-      <circle
-         style="fill:#216778;stroke:none;stroke-width:0.41418374"
-         id="__dot_AD-Oposición"
-         cx="-3.141273"
-         cy="61.168648"
-         r="2.8992863" />
-      <circle
-         style="fill:#216778;stroke:none;stroke-width:0.41418374"
-         cx="38.207172"
-         cy="61.168648"
-         r="2.0709188"
-         id="circle2608" />
-      <text
-         style="font-size:5.79857254px;font-family:'Liberation Sans', Arial, Helvetica;-inkscape-font-specification:'Liberation Sans, Arial, Helvetica';fill:#000000;stroke:none;stroke-width:0.41418374"
-         x="-0.24198687"
-         y="59.097729"
-         id="text2733">NombreA</text>
-      <text
-         style="font-size:5.79857254px;font-family:'Liberation Sans', Arial, Helvetica;-inkscape-font-specification:'Liberation Sans, Arial, Helvetica';fill:#000000;stroke:none;stroke-width:0.41418374"
-         x="40.416866"
-         y="59.097729"
-         id="text2735">NombreB</text>
-    </g>
-    <text
-       id="text904"
-       y="91.298004"
-       x="168.01782"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.28913879px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20557117"
-       xml:space="preserve"><tspan
-         y="91.298004"
-         x="168.01782"
-         id="tspan902"
-         sodipodi:role="line"
-         style="font-size:17.6817112px;stroke-width:1.20557117">Partido cambia de nombre.</tspan></text>
+       y2="57.230812"
+       x2="145.35524"
+       y1="57.230812"
+       x1="35.355232" />
+    <circle
+       style="fill:#aa5252;fill-opacity:0.88235294;stroke:none;stroke-width:0.59539998"
+       cx="29.878231"
+       cy="57.230812"
+       r="2.977"
+       id="circle889" />
   </g>
 </svg>
