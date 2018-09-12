@@ -8,6 +8,6 @@ Proyecto en desarrollo.
 
 ---
 
-Partidos/Nodos registrados: 272
+Partidos/Nodos registrados: 280
 
-Última actualización (dd/mm/yyyy): 10/09/2018
+Última actualización (dd/mm/yyyy): 12/09/2018
