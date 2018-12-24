@@ -1362,6 +1362,86 @@
          xlink:href="#__fadeout"
          id="use95" />
     </marker>
+    <g
+       id="s"
+       transform="translate(0,-36)">
+      <g
+         id="f">
+        <g
+           id="t">
+          <path
+             d="M 0,-5 V 0 H 3 Z"
+             transform="rotate(18,0,-5)"
+             id="o"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <use
+             xlink:href="#o"
+             transform="scale(-1,1)"
+             id="use3"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <use
+           xlink:href="#t"
+           transform="rotate(72)"
+           id="use6"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <use
+         xlink:href="#t"
+         transform="rotate(-72)"
+         id="use9"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#f"
+         transform="rotate(144)"
+         id="use11"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1143">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1133" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1135" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur1137" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1139" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1141" />
+    </filter>
 
 <!-- END additional SVG images - definitions -->
 
@@ -3740,18 +3820,18 @@ style='opacity:0.6;' >
 
 <g inkscape:label='Infobox' inkscape:groupmode='layer' id='layer_infobox'
  style='stroke:none;fill:#fff;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
-  <rect x='75' y='7000' width='520' height='250' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
-  <rect x='75' y='7000' width='520' height='250' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
-  <text x='86' y='7038'><tspan style='font-size:32px;font-weight:bold;'>Partidos Políticos de Venezuela</tspan></text>
-  <text x='86' y='7061'><tspan style='font-size:16px;'>Siglos XX y XXI</tspan></text>
-  <text x='86' y='7081'><tspan style='font-size:16px;'></tspan></text>
-  <text x='86' y='7101'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 0.8</tspan></tspan></text>
-  <text x='86' y='7121'><tspan style='font-size:16px;'></tspan></text>
-  <text x='86' y='7141'><tspan style='font-size:16px;'>© <a href='https://github.com/davidhdz/ppvTimeline'><tspan style='text-decoration:underline'>David A. Hernández Aponte</tspan></a></tspan></text>
-  <text x='86' y='7161'><tspan style='font-size:16px;'></tspan></text>
-  <text x='86' y='7181'><tspan style='font-size:16px;'>Esta obra está bajo una Licencia</tspan></text>
-  <text x='86' y='7201'><tspan style='font-size:16px;'>Creative Commons Atribución 3.0 Internacional.</tspan></text>
-  <text x='86' y='7221'><tspan style='font-size:16px;'></tspan></text>
+  <rect x='75' y='600' width='520' height='225' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
+  <rect x='75' y='600' width='520' height='225' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
+  <text x='86' y='638'><tspan style='font-size:32px;font-weight:bold;'>Partidos Políticos de Venezuela</tspan></text>
+  <text x='86' y='661'><tspan style='font-size:16px;'>Siglos XX y XXI</tspan></text>
+  <text x='86' y='681'><tspan style='font-size:16px;'></tspan></text>
+  <text x='86' y='701'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 0.9</tspan></tspan></text>
+  <text x='86' y='721'><tspan style='font-size:16px;'></tspan></text>
+  <text x='86' y='741'><tspan style='font-size:16px;'>© <a href='https://github.com/davidhdz/ppvTimeline'><tspan style='text-decoration:underline'>David A. Hernández Aponte</tspan></a></tspan></text>
+  <text x='86' y='761'><tspan style='font-size:16px;'></tspan></text>
+  <text x='86' y='781'><tspan style='font-size:16px;'>Esta obra está bajo una Licencia</tspan></text>
+  <text x='86' y='801'><tspan style='font-size:16px;'>Creative Commons Atribución 3.0 Internacional.</tspan></text>
+  <text x='86' y='821'><tspan style='font-size:16px;'></tspan></text>
 </g>
 
 <!-- BEGIN additional images -->
@@ -3760,7 +3840,7 @@ style='opacity:0.6;' >
 </g>
 
 <g inkscape:label='Included SVG Images' inkscape:groupmode='layer' id='layer_included_svg'>
-  <g transform='translate(85,677)' >
+  <g transform='translate(135,857)' >
   <rect
      style="fill:#ffffff;fill-opacity:0.7;fill-rule:nonzero;stroke:#820000;stroke-width:2.41114235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      width="397.58887"
@@ -3846,6 +3926,70 @@ style='opacity:0.6;' >
        cy="57.230812"
        r="2.977"
        id="circle889" />
+  </g>
+  </g>
+  <g transform='translate(485,652)' >
+  <g
+     id="g855"
+     transform="matrix(0.71111111,0,0,0.71111111,12.8,8.5333333)"
+     style="filter:url(#filter1143)">
+    <path
+       id="path16"
+       d="M 0,0 H 180 V 120 H 0 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#cf142b" />
+    <path
+       id="path18"
+       d="M 0,0 H 180 V 80 H 0 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#00247d" />
+    <path
+       id="path20"
+       d="M 0,0 H 180 V 40 H 0 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffcc00" />
+    <g
+       id="g32"
+       transform="translate(90,84)">
+      <g
+         id="s4">
+        <g
+           id="s2">
+          <use
+             id="use22"
+             transform="rotate(10)"
+             xlink:href="#s"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use24"
+             transform="rotate(30)"
+             xlink:href="#s"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <use
+           id="use27"
+           transform="rotate(40)"
+           xlink:href="#s2"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <use
+         id="use30"
+         transform="rotate(-80)"
+         xlink:href="#s4"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
   </g>
   </g>
 </g>
