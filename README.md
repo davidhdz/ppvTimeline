@@ -36,7 +36,7 @@ Otras fuentes incluyen páginas web, relatos y entrevistas en blogs, revistas y 
 
 En el gráfico, cada nombre de partido está enlazado a la referencia web de donde se tomó la información para establecer su fecha de fundación.
 
-## Datos de claves
+## Datos claves
 
 Para que el partido aparezca en la lista es necesario 3 datos principales, fecha de fundación, fecha de disolución (si aplicara) y la fuente de donde se obtuvo la información.
 
