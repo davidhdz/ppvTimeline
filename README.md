@@ -14,7 +14,7 @@ Partidos/Nodos registrados: 284
 
 ---
 
-![thumbnail](./images/thumbnail.png "Previa")
+[![thumbnail](./images/thumbnail.png "Previa")](ppv.svg)
 Previa
 
 ---
