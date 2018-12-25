@@ -61,7 +61,7 @@ Las divisiones y partidos derivados de otros se indican como ramas que nacen del
 
 ### Fusiones
 
-Las fusiones se indican con un punto grande acompañado de una línea vertical punteada que arranca desde el partido que se disuelve hasta el partido al cual se adhiere. El punto y la línea punteada serán del color de la línea del tiempo del partido receptor.
+Las fusiones se indican con un punto pequeño acompañado de una línea vertical punteada que arranca desde el partido que se disuelve hasta el partido al cual se adhiere. El punto y la línea punteada serán del color de la línea del tiempo del partido receptor.
 
 ### Refundación
 
