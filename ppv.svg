@@ -140,6 +140,9 @@
   <marker id='__connector_33' stroke='none' markerUnits='userSpaceOnUse' style='overflow:visible;'>
     <use xlink:href='#__connectors_start' fill='#1453A6'  />
   </marker>
+  <marker id='__connector_34' stroke='none' markerUnits='userSpaceOnUse' style='overflow:visible;'>
+    <use xlink:href='#__connectors_start' fill='#8b3cb8'  />
+  </marker>
 <rect id='__fadeout' height='1' width='5' y='-0.5' x='0'/>  <linearGradient id='__fadeout_Unión__Popular__Venezolana__«UPV»' x1='0' y1='0' x2='5' y2='0' gradientUnits='userSpaceOnUse'>
     <stop stop-color='#42474D' offset='0' stop-opacity='1' />
     <stop stop-color='#42474D' offset='1' stop-opacity='0' />
@@ -2679,6 +2682,7 @@ style='opacity:0.6;' >
   <line x1='6570' y1='754' x2='6570' y2='877' stroke='#1453A6' stroke-width='3' stroke-dasharray='3,3' marker-start='url(#__connector_31)' />
   <line x1='956' y1='429' x2='956' y2='577' stroke='#CB9517' stroke-width='3' stroke-dasharray='3,3' marker-start='url(#__connector_32)' />
   <line x1='7040' y1='5650' x2='7040' y2='877' stroke='#1453A6' stroke-width='3' stroke-dasharray='3,3' marker-start='url(#__connector_33)' />
+  <line x1='7663' y1='1354' x2='7663' y2='8527' stroke='#8b3cb8' stroke-width='3' stroke-dasharray='3,3' marker-start='url(#__connector_34)' />
 </g>
 
 <g inkscape:label='Lines' inkscape:groupmode='layer' id='layer_lines'
@@ -2689,54 +2693,54 @@ style='opacity:0.6;' >
   <path id='__line_Partido__Republicano__Progresista__«PRP»' d='M 755 152 C 866,152 792,427 903,427 L 903 427 L 1921 427' stroke='#e11d40' style='stroke-width:5;' marker-end='url(#__stop_Partido__Republicano__Progresista__«PRP»)' />
   <path id='__line_Izquierda__Democrática__«IZD»' d='M 5859 252 C 5916.75,252 5878.25,177 5936,177 L 5936 177 L 6570 177' stroke='#F5D1D6' style='stroke-width:5;' marker-end='url(#__stop_Izquierda__Democrática__«IZD»)' />
   <path id='__line_Vamos' d='M 6241 202 C 6274,202 6252,227 6285,227 L 6285 227 L 6423 227' stroke='#2c49a3' style='stroke-width:5;' marker-end='url(#__stop_Vamos)' />
-  <path id='__line_Por__la__Democracia__Social__«PODEMOS»' d='M 6124 252 C 6171.25,252 6139.75,202 6187,202 L 6187 202 L 7657 202' stroke='#961014' style='stroke-width:5;' />
-  <path id='__line_Avanzada__Progresista__«AP»' d='M 6964 352 C 6997,352 6975,327 7008,327 L 7008 327 L 7657 327' stroke='#094579' style='stroke-width:5;' />
-  <path id='__line_Izquierda__Unida__«IU»' d='M 6126 252 C 6159,252 6137,277 6170,277 L 6170 277 L 7657 277' stroke='#D3201C' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Progresista__de__Venezuela__«MPV»' d='M 6964 352 C 6997,352 6975,377 7008,377 L 7008 377 L 7657 377' stroke='#0B4370' style='stroke-width:5;' />
-  <path id='__line_Patria__Para__Todos__«PPT»' d='M 5765 302 C 5812.25,302 5780.75,352 5828,352 L 5828 352 L 7657 352' stroke='#0536BF' style='stroke-width:5;' />
-  <path id='__line_La__Causa__Radical__«LCR»' d='M 3692 252 C 3692,252 3692,302 3692,302 L 3692 302 L 7657 302' stroke='#F7EE42' style='stroke-width:5;' />
-  <path id='__line_Movimiento__al__Socialismo__«MAS»' d='M 3603 152 C 3669.75,152 3625.25,252 3692,252 L 3692 252 L 7657 252' stroke='#FF6600' style='stroke-width:5;' />
+  <path id='__line_Por__la__Democracia__Social__«PODEMOS»' d='M 6124 252 C 6171.25,252 6139.75,202 6187,202 L 6187 202 L 7685 202' stroke='#961014' style='stroke-width:5;' />
+  <path id='__line_Avanzada__Progresista__«AP»' d='M 6964 352 C 6997,352 6975,327 7008,327 L 7008 327 L 7685 327' stroke='#094579' style='stroke-width:5;' />
+  <path id='__line_Izquierda__Unida__«IU»' d='M 6126 252 C 6159,252 6137,277 6170,277 L 6170 277 L 7685 277' stroke='#D3201C' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Progresista__de__Venezuela__«MPV»' d='M 6964 352 C 6997,352 6975,377 7008,377 L 7008 377 L 7685 377' stroke='#0B4370' style='stroke-width:5;' />
+  <path id='__line_Patria__Para__Todos__«PPT»' d='M 5765 302 C 5812.25,302 5780.75,352 5828,352 L 5828 352 L 7685 352' stroke='#0536BF' style='stroke-width:5;' />
+  <path id='__line_La__Causa__Radical__«LCR»' d='M 3692 252 C 3692,252 3692,302 3692,302 L 3692 302 L 7685 302' stroke='#F7EE42' style='stroke-width:5;' />
+  <path id='__line_Movimiento__al__Socialismo__«MAS»' d='M 3603 152 C 3669.75,152 3625.25,252 3692,252 L 3692 252 L 7685 252' stroke='#FF6600' style='stroke-width:5;' />
   <path id='__line_Partido__Revolucionario__del__Proletariado__«PRP»' d='M 1613 152 C 1718.75,152 1648.25,402 1754,402 L 1754 402 L 2170 402' stroke='#441b45' style='stroke-width:5;' marker-end='url(#__stop_Partido__Revolucionario__del__Proletariado__«PRP»)' />
-  <path id='__line_Partido__Revolucionario__Venezolano__«PRV»' d='M 90 152 L 7657 152' stroke='#CB1D11' style='stroke-width:5;' />
+  <path id='__line_Partido__Revolucionario__Venezolano__«PRV»' d='M 90 152 L 7685 152' stroke='#CB1D11' style='stroke-width:5;' />
   <path id='__line_Partido__de__Liberación__Nacional' d='M 330 477 L 380 477' stroke='#2F8097' style='stroke-width:5;' marker-end='url(#__stop_Partido__de__Liberación__Nacional)' />
   <path id='__line_Liga__Socialista__«LS»' d='M 3876 1077 C 3909,1077 3887,1052 3920,1052 L 3920 1052 L 6665 1052' stroke='#A32322' style='stroke-width:5;' marker-end='url(#__stop_Liga__Socialista__«LS»)' />
   <path id='__line_Fuerza__Democrática__Popular__«FDP»' d='M 2943 1077 C 3000.75,1077 2962.25,1152 3020,1152 L 3020 1152 L 5523 1152' stroke='#1C5F9B' style='stroke-width:5;' marker-end='url(#__stop_Fuerza__Democrática__Popular__«FDP»)' />
-  <path id='__line_Vanguardia__Popular__«VP»' d='M 6541 1102 C 6574,1102 6552,1127 6585,1127 L 6585 1127 L 7657 1127' stroke='#e7909f' style='stroke-width:5;' />
+  <path id='__line_Vanguardia__Popular__«VP»' d='M 6541 1102 C 6574,1102 6552,1127 6585,1127 L 6585 1127 L 7685 1127' stroke='#e7909f' style='stroke-width:5;' />
   <path id='__line_Alianza__Popular__Independiente__«API»' d='M 3309 602 C 3342,602 3320,627 3353,627 L 3353 627 L 3869 627' stroke='#54ac78' style='stroke-width:5;' marker-end='url(#__stop_Alianza__Popular__Independiente__«API»)' />
   <path id='__line_AD-Oposición' d='M 2854 777 C 2942.5,777 2883.5,602 2972,602 L 2972 602 L 3924 602' stroke='#D8C342' style='stroke-width:5;' marker-end='url(#__stop_AD-Oposición)' />
-  <path id='__line_Movimiento__Integración__Nacional__«MIN»' d='M 4113 777 C 4188,777 4138,652 4213,652 L 4213 652 L 7657 652' stroke='#00B8DE' style='stroke-width:5;' />
-  <path id='__line_Renovación' d='M 5761 777 C 5827.75,777 5783.25,677 5850,677 L 5850 677 L 7657 677' stroke='#2F2F2F' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Integración__Nacional__«MIN»' d='M 4113 777 C 4188,777 4138,652 4213,652 L 4213 652 L 7685 652' stroke='#00B8DE' style='stroke-width:5;' />
+  <path id='__line_Renovación' d='M 5761 777 C 5827.75,777 5783.25,677 5850,677 L 5850 677 L 7685 677' stroke='#2F2F2F' style='stroke-width:5;' />
   <path id='__line_Grupo__Socialdemócrata__«GSD»' d='M 6085 702 C 6088.75,702 6086.25,727 6090,727 L 6090 727 L 6423 727' stroke='#77908b' style='stroke-width:5;' marker-end='url(#__stop_Grupo__Socialdemócrata__«GSD»)' />
-  <path id='__line_Alianza__Bravo__Pueblo__«ABP»' d='M 6008 777 C 6065.75,777 6027.25,702 6085,702 L 6085 702 L 7657 702' stroke='#485EA1' style='stroke-width:5;' />
+  <path id='__line_Alianza__Bravo__Pueblo__«ABP»' d='M 6008 777 C 6065.75,777 6027.25,702 6085,702 L 6085 702 L 7685 702' stroke='#485EA1' style='stroke-width:5;' />
   <path id='__line_Polo__Democrático__«PD»' d='M 6381 777 C 6414,777 6392,752 6425,752 L 6425 752 L 6570 752' stroke='#FFAE50' style='stroke-width:5;' marker-end='url(#__stop_Polo__Democrático__«PD»)' />
-  <path id='__line_Bandera__Roja__«BR»' d='M 3570 1077 C 3603,1077 3581,1102 3614,1102 L 3614 1102 L 7657 1102' stroke='#FF0000' style='stroke-width:5;' />
-  <path id='__line_Dignidad__Social__Monaguense' d='M 6606 777 C 6639,777 6617,802 6650,802 L 6650 802 L 7657 802' stroke='#006AC8' style='stroke-width:5;' />
-  <path id='__line_Fuerza__Ciudadana__«FC»' d='M 6202 777 C 6249.25,777 6217.75,827 6265,827 L 6265 827 L 7657 827' stroke='#FFFE12' style='stroke-width:5;' />
-  <path id='__line_Encuentro__Ciudadano' d='M 7481 877 C 7514,877 7492,852 7525,852 L 7525 852 L 7657 852' stroke='#001D50' style='stroke-width:5;' />
-  <path id='__line_Voluntad__Popular__«VP»' d='M 6759 877 C 6792,877 6770,902 6803,902 L 6803 902 L 7657 902' stroke='#F78F1E' style='stroke-width:5;' />
-  <path id='__line_Un__Nuevo__Tiempo__«UNT»' d='M 5841 777 C 5907.75,777 5863.25,877 5930,877 L 5930 877 L 7657 877' stroke='#1453A6' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Apertura__«Apertura»' d='M 5678 777 C 5759.75,777 5705.25,927 5787,927 L 5787 927 L 7657 927' stroke='#2AB1EB' style='stroke-width:5;' />
-  <path id='__line_Unidad__Política__Popular__89__«UPP89»' d='M 7079 977 C 7112,977 7090,952 7123,952 L 7123 952 L 7657 952' stroke='#FC7313' style='stroke-width:5;' />
+  <path id='__line_Bandera__Roja__«BR»' d='M 3570 1077 C 3603,1077 3581,1102 3614,1102 L 3614 1102 L 7685 1102' stroke='#FF0000' style='stroke-width:5;' />
+  <path id='__line_Dignidad__Social__Monaguense' d='M 6606 777 C 6639,777 6617,802 6650,802 L 6650 802 L 7685 802' stroke='#006AC8' style='stroke-width:5;' />
+  <path id='__line_Fuerza__Ciudadana__«FC»' d='M 6202 777 C 6249.25,777 6217.75,827 6265,827 L 6265 827 L 7685 827' stroke='#FFFE12' style='stroke-width:5;' />
+  <path id='__line_Encuentro__Ciudadano' d='M 7481 877 C 7514,877 7492,852 7525,852 L 7525 852 L 7685 852' stroke='#001D50' style='stroke-width:5;' />
+  <path id='__line_Voluntad__Popular__«VP»' d='M 6759 877 C 6792,877 6770,902 6803,902 L 6803 902 L 7685 902' stroke='#F78F1E' style='stroke-width:5;' />
+  <path id='__line_Un__Nuevo__Tiempo__«UNT»' d='M 5841 777 C 5907.75,777 5863.25,877 5930,877 L 5930 877 L 7685 877' stroke='#1453A6' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Apertura__«Apertura»' d='M 5678 777 C 5759.75,777 5705.25,927 5787,927 L 5787 927 L 7685 927' stroke='#2AB1EB' style='stroke-width:5;' />
+  <path id='__line_Unidad__Política__Popular__89__«UPP89»' d='M 7079 977 C 7112,977 7090,952 7123,952 L 7123 952 L 7685 952' stroke='#FC7313' style='stroke-width:5;' />
   <path id='__line_Congreso__del__Trabajo' d='M 3751 977 C 3784,977 3762,1002 3795,1002 L 3795 1002 L 3924 1002' stroke='#c56cb9' style='stroke-width:5;' marker-end='url(#__stop_Congreso__del__Trabajo)' />
-  <path id='__line_Movimiento__Electoral__del__Pueblo__«MEP»' d='M 3319 777 C 3413.5,777 3350.5,977 3445,977 L 3445 977 L 7657 977' stroke='#5F008E' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Electoral__del__Pueblo__«MEP»' d='M 3319 777 C 3413.5,777 3350.5,977 3445,977 L 3445 977 L 7685 977' stroke='#5F008E' style='stroke-width:5;' />
   <path id='__line_Nueva__Alternativa__«NA»' d='M 3460 1077 C 3507.25,1077 3475.75,1027 3523,1027 L 3523 1027 L 5523 1027' stroke='#b02a0f' style='stroke-width:5;' marker-end='url(#__stop_Nueva__Alternativa__«NA»)' />
   <path id='__line_Movimiento__de__Izquierda__Revolucionaria__«MIR»' d='M 2697 777 C 2812.5,777 2735.5,1077 2851,1077 L 2851 1077 L 5123 1077' stroke='#273133' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__de__Izquierda__Revolucionaria__«MIR»)' />
-  <path id='__line_Acción__Democrática__«AD»' d='M 1219 577 C 1313.5,577 1250.5,777 1345,777 L 1345 777 L 7657 777' stroke='#0066FF' style='stroke-width:5;' />
+  <path id='__line_Acción__Democrática__«AD»' d='M 1219 577 C 1313.5,577 1250.5,777 1345,777 L 1345 777 L 7685 777' stroke='#0066FF' style='stroke-width:5;' />
   <path id='__line_Partido__Democrático__Nacional__«PDN»' d='M 912 552 C 945,552 923,577 956,577 L 956 577 L 1345 577' stroke='#CB9517' style='stroke-width:5;' marker-end='url(#__stop_Partido__Democrático__Nacional__«PDN»)' />
   <path id='__line_Movimiento__de__Organización__Venezolana__«ORVE»' d='M 859 527 C 892,527 870,552 903,552 L 903 552 L 976 552' stroke='#837052' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__de__Organización__Venezolana__«ORVE»)' />
   <path id='__line_Agrupación__Revolucionaria__de__Izquierda__«ARDI»' d='M 490 527 L 903 527' stroke='#e11d40' style='stroke-width:5;' marker-end='url(#__stop_Agrupación__Revolucionaria__de__Izquierda__«ARDI»)' />
   <path id='__line_Federación__de__Estudiantes__de__Venezuela__«FEV-OP»' d='M 904 1227 C 937,1227 915,1202 948,1202 L 948 1202 L 976 1202' stroke='#634a9e' style='stroke-width:5;' marker-end='url(#__stop_Federación__de__Estudiantes__de__Venezuela__«FEV-OP»)' />
   <path id='__line_Liga__de__Defensa__Nacional' d='M 917 1552 C 939.5,1552 924.5,1577 947,1577 L 947 1577 L 1269 1577' stroke='#4f0f12' style='stroke-width:5;' marker-end='url(#__stop_Liga__de__Defensa__Nacional)' />
-  <path id='__line_Proyecto__Carabobo' d='M 5604 1427 C 5651.25,1427 5619.75,1477 5667,1477 L 5667 1477 L 7657 1477' stroke='#FFFF00' style='stroke-width:5;' />
+  <path id='__line_Proyecto__Carabobo' d='M 5604 1427 C 5651.25,1427 5619.75,1477 5667,1477 L 5667 1477 L 7685 1477' stroke='#FFFF00' style='stroke-width:5;' />
   <path id='__line_Social__Democracia__Popular__Venezolana' d='M 3754 1427 C 3811.75,1427 3773.25,1502 3831,1502 L 3831 1502 L 3924 1502' stroke='#11034e' style='stroke-width:5;' marker-end='url(#__stop_Social__Democracia__Popular__Venezolana)' />
   <path id='__line_Grupo__de__Acción__Revolucionaria__«GAR»' d='M 3430 1427 C 3505,1427 3455,1302 3530,1302 L 3530 1302 L 4723 1302' stroke='#a2600c' style='stroke-width:5;' marker-end='url(#__stop_Grupo__de__Acción__Revolucionaria__«GAR»)' />
-  <path id='__line_Convergencia' d='M 5394 1427 C 5460.75,1427 5416.25,1327 5483,1327 L 5483 1327 L 7657 1327' stroke='#CD740E' style='stroke-width:5;' />
-  <path id='__line_La__Fuerza__del__Cambio__«FDC»' d='M 6714 1352 C 6747,1352 6725,1377 6758,1377 L 6758 1377 L 7657 1377' stroke='#8bf508' style='stroke-width:5;' />
-  <path id='__line_Primero__Justicia__«PJ»' d='M 5946 1427 C 6003.75,1427 5965.25,1352 6023,1352 L 6023 1352 L 7657 1352' stroke='#F4D96E' style='stroke-width:5;' />
-  <path id='__line_Unión__y__Progreso' d='M 7613 1427 C 7646,1427 7624,1402 7657,1402 L 7657 1402 L 7657 1402' stroke='#39A600' style='stroke-width:5;' />
+  <path id='__line_Convergencia' d='M 5394 1427 C 5460.75,1427 5416.25,1327 5483,1327 L 5483 1327 L 7685 1327' stroke='#CD740E' style='stroke-width:5;' />
+  <path id='__line_La__Fuerza__del__Cambio__«FDC»' d='M 6714 1352 C 6747,1352 6725,1377 6758,1377 L 6758 1377 L 7685 1377' stroke='#8bf508' style='stroke-width:5;' />
+  <path id='__line_Primero__Justicia__«PJ»' d='M 5946 1427 C 6003.75,1427 5965.25,1352 6023,1352 L 6023 1352 L 7685 1352' stroke='#F4D96E' style='stroke-width:5;' />
+  <path id='__line_Unión__y__Progreso' d='M 7613 1427 C 7646,1427 7624,1402 7657,1402 L 7657 1402 L 7685 1402' stroke='#39A600' style='stroke-width:5;' />
   <path id='__line_Movimiento__de__Acción__Nacional__«MAN»' d='M 2750 1427 C 2816.75,1427 2772.25,1527 2839,1527 L 2839 1527 L 3924 1527' stroke='#2b285c' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__de__Acción__Nacional__«MAN»)' />
-  <path id='__line_Alianza__Popular' d='M 6394 1427 C 6427,1427 6405,1452 6438,1452 L 6438 1452 L 7657 1452' stroke='#182D79' style='stroke-width:5;' />
-  <path id='__line_Comité__de__Organización__Política__Electoral__Independiente__«COPEI»' d='M 1583 1277 C 1664.75,1277 1610.25,1427 1692,1427 L 1692 1427 L 7657 1427' stroke='#8DC73C' style='stroke-width:5;' />
+  <path id='__line_Alianza__Popular' d='M 6394 1427 C 6427,1427 6405,1452 6438,1452 L 6438 1452 L 7685 1452' stroke='#182D79' style='stroke-width:5;' />
+  <path id='__line_Comité__de__Organización__Política__Electoral__Independiente__«COPEI»' d='M 1583 1277 C 1664.75,1277 1610.25,1427 1692,1427 L 1692 1427 L 7685 1427' stroke='#8DC73C' style='stroke-width:5;' />
   <path id='__line_Acción__Nacional' d='M 1349 1252 C 1382,1252 1360,1277 1393,1277 L 1393 1277 L 1692 1277' stroke='#006400' style='stroke-width:5;' marker-end='url(#__stop_Acción__Nacional)' />
   <path id='__line_Acción__Electoral' d='M 958 1552 C 1073.5,1552 996.5,1252 1112,1252 L 1112 1252 L 1393 1252' stroke='#19c117' style='stroke-width:5;' marker-end='url(#__stop_Acción__Electoral)' />
   <path id='__line_Unión__Nacional__Estudiantil__«UNE»' d='M 885 1227 C 909,1227 893,1552 917,1552 L 917 1552 L 1674 1552' stroke='#16c876' style='stroke-width:5;' marker-end='url(#__stop_Unión__Nacional__Estudiantil__«UNE»)' />
@@ -2771,7 +2775,7 @@ style='opacity:0.6;' >
   <path id='__line_Acción__Republicana__Popular__«ARP»' d='M 2158 2327 C 2215.75,2327 2177.25,2402 2235,2402 L 2235 2402 L 2654 2402' stroke='#1d5b74' style='stroke-width:5;' marker-end='url(#__stop_Acción__Republicana__Popular__«ARP»)' />
   <path id='__line_Movimiento__Republicano__Nacional__«MRN»' d='M 4206 2327 C 4239,2327 4217,2352 4250,2352 L 4250 2352 L 5924 2352' stroke='#DD371F' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__Republicano__Nacional__«MRN»)' />
   <path id='__line_Vanguardia__Popular__Nacionalista__«VPN»' d='M 3079 2327 C 3126.25,2327 3094.75,2377 3142,2377 L 3142 2377 L 3290 2377' stroke='#C4E0E3' style='stroke-width:5;' marker-end='url(#__stop_Vanguardia__Popular__Nacionalista__«VPN»)' />
-  <path id='__line_Unión__Republicana__Democrática__«URD»' d='M 1686 2327 L 7657 2327' stroke='#FEED00' style='stroke-width:5;' />
+  <path id='__line_Unión__Republicana__Democrática__«URD»' d='M 1686 2327 L 7685 2327' stroke='#FEED00' style='stroke-width:5;' />
   <path id='__line_Partido__Social__Cristiano' d='M 1699 2452 L 1921 2452' stroke='#ccf991' style='stroke-width:5;' marker-end='url(#__stop_Partido__Social__Cristiano)' />
   <path id='__line_Unión__Federal__Republicana__«UFR»' d='M 1719 2477 L 1906 2477' stroke='#6dd684' style='stroke-width:5;' marker-end='url(#__stop_Unión__Federal__Republicana__«UFR»)' />
   <path id='__line_Partido__Liberal__Progresista' d='M 1725 2502 L 1921 2502' stroke='#f8dd54' style='stroke-width:5;' marker-end='url(#__stop_Partido__Liberal__Progresista)' />
@@ -2782,7 +2786,7 @@ style='opacity:0.6;' >
   <path id='__line_Comité__Nacional__Popular__de__Acción__Electoral__«CONPAE»' d='M 2896 2627 L 3703 2627' stroke='#5fecfd' style='stroke-width:5;' marker-end='url(#__stop_Comité__Nacional__Popular__de__Acción__Electoral__«CONPAE»)' />
   <path id='__line_Movimiento__Republicano__Progresista__«MRP»' d='M 2896 2652 L 3123 2652' stroke='#4245a6' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__Republicano__Progresista__«MRP»)' />
   <path id='__line_Movimiento__Social__Nacionalista__«MSN»' d='M 2974 2677 L 3523 2677' stroke='#332506' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__Social__Nacionalista__«MSN»)' />
-  <path id='__line_Opinión__Nacional__«OPINA»' d='M 2985 2702 L 7657 2702' stroke='#9A7628' style='stroke-width:5;' />
+  <path id='__line_Opinión__Nacional__«OPINA»' d='M 2985 2702 L 7685 2702' stroke='#9A7628' style='stroke-width:5;' />
   <path id='__line_Cruzada__Electoral__Popular__Agrupación__Social__«CEPAS»' d='M 3008 2727 L 3523 2727' stroke='#4888e2' style='stroke-width:5;' marker-end='url(#__stop_Cruzada__Electoral__Popular__Agrupación__Social__«CEPAS»)' />
   <path id='__line_Acción__Venezolana__Independiente__«AVI»' d='M 3016 2752 L 3123 2752' stroke='#28bfa6' style='stroke-width:5;' marker-end='url(#__stop_Acción__Venezolana__Independiente__«AVI»)' />
   <path id='__line_Frente__Electoral__Independiente__de__Democrática__Organización__Nacional__«FEIDON»' d='M 3025 2777 L 3869 2777' stroke='#7e3d5d' style='stroke-width:5;' marker-end='url(#__stop_Frente__Electoral__Independiente__de__Democrática__Organización__Nacional__«FEIDON»)' />
@@ -2840,8 +2844,8 @@ style='opacity:0.6;' >
   <path id='__line_Federación__Nacional__Independiente__«FNI»' d='M 3838 4077 L 3924 4077' stroke='#63ab2c' style='stroke-width:5;' marker-end='url(#__stop_Federación__Nacional__Independiente__«FNI»)' />
   <path id='__line_Fuerza__Emancipadora__«FE»' d='M 3839 4102 L 5523 4102' stroke='#0f43e0' style='stroke-width:5;' marker-end='url(#__stop_Fuerza__Emancipadora__«FE»)' />
   <path id='__line_Acción__Renovadora__Vencedora__Independiente__«ARVI»' d='M 3850 4127 L 3924 4127' stroke='#9d2079' style='stroke-width:5;' marker-end='url(#__stop_Acción__Renovadora__Vencedora__Independiente__«ARVI»)' />
-  <path id='__line_Consejo__Nacional__Indio__de__Venezuela__«CONIVE»' d='M 5138 4152 C 5171,4152 5149,4177 5182,4177 L 5182 4177 L 7657 4177' stroke='#BCE0B5' style='stroke-width:5;' />
-  <path id='__line_Federación__Indígena__Del__Estado__Bolívar__«FIEB»' d='M 3850 4152 L 7657 4152' stroke='#707B3C' style='stroke-width:5;' />
+  <path id='__line_Consejo__Nacional__Indio__de__Venezuela__«CONIVE»' d='M 5138 4152 C 5171,4152 5149,4177 5182,4177 L 5182 4177 L 7685 4177' stroke='#BCE0B5' style='stroke-width:5;' />
+  <path id='__line_Federación__Indígena__Del__Estado__Bolívar__«FIEB»' d='M 3850 4152 L 7685 4152' stroke='#707B3C' style='stroke-width:5;' />
   <path id='__line_Alianza__Libertadora__Nacionalista__«ALN»' d='M 3850 4202 L 3924 4202' stroke='#218463' style='stroke-width:5;' marker-end='url(#__stop_Alianza__Libertadora__Nacionalista__«ALN»)' />
   <path id='__line_Frente__Independiente__Popular__«FIPO»' d='M 3851 4227 L 3924 4227' stroke='#8f9cb0' style='stroke-width:5;' marker-end='url(#__stop_Frente__Independiente__Popular__«FIPO»)' />
   <path id='__line_Agrupación__de__Mujeres__Nacionalistas__Independientes' d='M 3856 4252 L 3924 4252' stroke='#9dfa56' style='stroke-width:5;' marker-end='url(#__stop_Agrupación__de__Mujeres__Nacionalistas__Independientes)' />
@@ -2856,13 +2860,13 @@ style='opacity:0.6;' >
   <path id='__line_Movimiento__del__Trabajo__«MDT»' d='M 4250 4477 L 4723 4477' stroke='#2c7d9c' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__del__Trabajo__«MDT»)' />
   <path id='__line_Fuerza__Unida__Revolucionaria__«FURE»' d='M 4253 4502 L 4410 4502' stroke='#14706b' style='stroke-width:5;' marker-end='url(#__stop_Fuerza__Unida__Revolucionaria__«FURE»)' />
   <path id='__line_Amplio__Frente__Independiente__Nacional__«AFIN»' d='M 4292 4527 L 4323 4527' stroke='#3c8eb4' style='stroke-width:5;' marker-end='url(#__stop_Amplio__Frente__Independiente__Nacional__«AFIN»)' />
-  <path id='__line_El__Pueblo__Avanza__«EPA»' d='M 4293 4552 L 7657 4552' stroke='#ea6e13' style='stroke-width:5;' />
+  <path id='__line_El__Pueblo__Avanza__«EPA»' d='M 4293 4552 L 7685 4552' stroke='#ea6e13' style='stroke-width:5;' />
   <path id='__line_Nueva__Generación__Democrática__«NGD»' d='M 4330 4577 L 6056 4577' stroke='#cdf736' style='stroke-width:5;' marker-end='url(#__stop_Nueva__Generación__Democrática__«NGD»)' />
   <path id='__line_Partido__Nacionalista__Venezolano__«PNV»' d='M 4376 4602 L 4723 4602' stroke='#14633c' style='stroke-width:5;' marker-end='url(#__stop_Partido__Nacionalista__Venezolano__«PNV»)' />
   <path id='__line_Rescate__Nacional__«RN»' d='M 4618 4627 L 4723 4627' stroke='#3f3641' style='stroke-width:5;' marker-end='url(#__stop_Rescate__Nacional__«RN»)' />
   <path id='__line_Araguaney__Movimiento__Independiente__«AMI»' d='M 4650 4652 L 5123 4652' stroke='#e3f54d' style='stroke-width:5;' marker-end='url(#__stop_Araguaney__Movimiento__Independiente__«AMI»)' />
   <path id='__line_Movimiento__Independiente__Organizado__«MIO»' d='M 4650 4677 L 4723 4677' stroke='#147f2f' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__Independiente__Organizado__«MIO»)' />
-  <path id='__line_Venceremos__Organizados__Independientes__«VOI»' d='M 4650 4702 L 7657 4702' stroke='#be9431' style='stroke-width:5;' />
+  <path id='__line_Venceremos__Organizados__Independientes__«VOI»' d='M 4650 4702 L 7685 4702' stroke='#be9431' style='stroke-width:5;' />
   <path id='__line_Comité__Independiente__Mayoritario__«CIMA»' d='M 4650 4727 L 4723 4727' stroke='#518213' style='stroke-width:5;' marker-end='url(#__stop_Comité__Independiente__Mayoritario__«CIMA»)' />
   <path id='__line_Frente__de__Integración__Nacional__«FIN»' d='M 4650 4752 L 5523 4752' stroke='#cae60f' style='stroke-width:5;' marker-end='url(#__stop_Frente__de__Integración__Nacional__«FIN»)' />
   <path id='__line_Electores__Independientes__«EI»' d='M 4667 4777 L 4723 4777' stroke='#aa25e8' style='stroke-width:5;' marker-end='url(#__stop_Electores__Independientes__«EI»)' />
@@ -2870,161 +2874,161 @@ style='opacity:0.6;' >
   <path id='__line_Integración__Renovadora__Electoral__«IRE»' d='M 4696 4827 L 5123 4827' stroke='#b4541e' style='stroke-width:5;' marker-end='url(#__stop_Integración__Renovadora__Electoral__«IRE»)' />
   <path id='__line_Confianza__Electoral__«CONFE»' d='M 4696 4852 L 4723 4852' stroke='#c8be03' style='stroke-width:5;' marker-end='url(#__stop_Confianza__Electoral__«CONFE»)' />
   <path id='__line_Nosotros__el__Poder__Social__de__la__Nación__«PSN»' d='M 4890 4877 L 5123 4877' stroke='#f97f07' style='stroke-width:5;' marker-end='url(#__stop_Nosotros__el__Poder__Social__de__la__Nación__«PSN»)' />
-  <path id='__line_Organización__Renovadora__Auténtica__«ORA»' d='M 4903 4902 L 7657 4902' stroke='#000000' style='stroke-width:5;' />
+  <path id='__line_Organización__Renovadora__Auténtica__«ORA»' d='M 4903 4902 L 7685 4902' stroke='#000000' style='stroke-width:5;' />
   <path id='__line_Independientes__Con__el__Cambio__88' d='M 5050 4927 L 5123 4927' stroke='#5e8797' style='stroke-width:5;' marker-end='url(#__stop_Independientes__Con__el__Cambio__88)' />
   <path id='__line_Línea__Democrática__Republicana__«LIDER»' d='M 5050 4952 L 5924 4952' stroke='#e2fab1' style='stroke-width:5;' marker-end='url(#__stop_Línea__Democrática__Republicana__«LIDER»)' />
   <path id='__line_La__Nueva__República__«LNR»' d='M 5050 4977 L 5123 4977' stroke='#ab762d' style='stroke-width:5;' marker-end='url(#__stop_La__Nueva__República__«LNR»)' />
   <path id='__line_Movimiento__Nacionalista__Venezolano__«MNV»' d='M 5050 5002 L 5123 5002' stroke='#fa1f2c' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__Nacionalista__Venezolano__«MNV»)' />
   <path id='__line_Fórmula__Uno__«F1»' d='M 5097 5027 L 5523 5027' stroke='#e895ea' style='stroke-width:5;' marker-end='url(#__stop_Fórmula__Uno__«F1»)' />
-  <path id='__line_Gente__Emergente__«GE»' d='M 5327 5052 L 7657 5052' stroke='#207EE0' style='stroke-width:5;' />
-  <path id='__line_Federación__Indigenista__De__Venezuela__«FEINVE»' d='M 5370 5077 L 7657 5077' stroke='#C75B47' style='stroke-width:5;' />
+  <path id='__line_Gente__Emergente__«GE»' d='M 5327 5052 L 7685 5052' stroke='#207EE0' style='stroke-width:5;' />
+  <path id='__line_Federación__Indigenista__De__Venezuela__«FEINVE»' d='M 5370 5077 L 7685 5077' stroke='#C75B47' style='stroke-width:5;' />
   <path id='__line_Acción__Agropecuaria__«AA»' d='M 5450 5102 L 6563 5102' stroke='#ab762d' style='stroke-width:5;' marker-end='url(#__stop_Acción__Agropecuaria__«AA»)' />
   <path id='__line_Factor__Democrático__«FD»' d='M 5450 5127 L 5924 5127' stroke='#8da765' style='stroke-width:5;' marker-end='url(#__stop_Factor__Democrático__«FD»)' />
-  <path id='__line_Organización__Regional__de__los__Pueblos__Indígenas__de__Amazonas__«ORPIA»' d='M 5505 5152 L 7657 5152' stroke='#FD0000' style='stroke-width:5;' />
-  <path id='__line_Electores__Libres__«EL»' d='M 5610 5177 L 7657 5177' stroke='#499690' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Republicano__«MR»' d='M 5660 5202 L 7657 5202' stroke='#005DCD' style='stroke-width:5;' />
-  <path id='__line_Independientes__por__la__Comunidad__Nacional__«IPCN»' d='M 5666 5227 L 7657 5227' stroke='#B11E2B' style='stroke-width:5;' />
-  <path id='__line_Solidaridad__Independiente__«SI»' d='M 5756 5252 L 7657 5252' stroke='#FFFF01' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Independiente__Ganamos__Todos__«MIGATO»' d='M 5770 5277 L 7657 5277' stroke='#009DFE' style='stroke-width:5;' />
-  <path id='__line_Democracia__Renovadora__«DR»' d='M 5770 5302 L 7657 5302' stroke='#81fcea' style='stroke-width:5;' />
-  <path id='__line_Pueblo__Unido__Multiétnico__de__Amazonas__«PUAMA»' d='M 5770 5327 L 7657 5327' stroke='#D04E80' style='stroke-width:5;' />
-  <path id='__line_Unidad__Popular__Venezolana__«UPV»' d='M 6293 5402 C 6326,5402 6304,5377 6337,5377 L 6337 5377 L 7657 5377' stroke='#4B0102' style='stroke-width:5;' />
-  <path id='__line_Solidaridad' d='M 6054 5402 C 6135.75,5402 6081.25,5552 6163,5552 L 6163 5552 L 7657 5552' stroke='#6464B3' style='stroke-width:5;' />
-  <path id='__line_Vanguardia__Bicentenaria__Republicana__«VBR»' d='M 6892 5477 C 6939.25,5477 6907.75,5427 6955,5427 L 6955 5427 L 7657 5427' stroke='#BD0001' style='stroke-width:5;' />
-  <path id='__line_Marea__Socialista__«MS»' d='M 7193 5477 C 7226,5477 7204,5452 7237,5452 L 7237 5452 L 7657 5452' stroke='#003E81' style='stroke-width:5;' />
-  <path id='__line_Nuevo__Camino__Revolucionario__«NCR»' d='M 6665 5477 C 6674,5477 6668,5527 6677,5527 L 6677 5527 L 7657 5527' stroke='#62187C' style='stroke-width:5;' />
-  <path id='__line_Monagas__Patriota' d='M 6943 5477 C 6976,5477 6954,5502 6987,5502 L 6987 5502 L 7657 5502' stroke='#396727' style='stroke-width:5;' />
-  <path id='__line_Partido__Socialista__Unido__de__Venezuela__«PSUV»' d='M 6588 5402 C 6645.75,5402 6607.25,5477 6665,5477 L 6665 5477 L 7657 5477' stroke='#FF0000' style='stroke-width:5;' />
+  <path id='__line_Organización__Regional__de__los__Pueblos__Indígenas__de__Amazonas__«ORPIA»' d='M 5505 5152 L 7685 5152' stroke='#FD0000' style='stroke-width:5;' />
+  <path id='__line_Electores__Libres__«EL»' d='M 5610 5177 L 7685 5177' stroke='#499690' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Republicano__«MR»' d='M 5660 5202 L 7685 5202' stroke='#005DCD' style='stroke-width:5;' />
+  <path id='__line_Independientes__por__la__Comunidad__Nacional__«IPCN»' d='M 5666 5227 L 7685 5227' stroke='#B11E2B' style='stroke-width:5;' />
+  <path id='__line_Solidaridad__Independiente__«SI»' d='M 5756 5252 L 7685 5252' stroke='#FFFF01' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Independiente__Ganamos__Todos__«MIGATO»' d='M 5770 5277 L 7685 5277' stroke='#009DFE' style='stroke-width:5;' />
+  <path id='__line_Democracia__Renovadora__«DR»' d='M 5770 5302 L 7685 5302' stroke='#81fcea' style='stroke-width:5;' />
+  <path id='__line_Pueblo__Unido__Multiétnico__de__Amazonas__«PUAMA»' d='M 5770 5327 L 7685 5327' stroke='#D04E80' style='stroke-width:5;' />
+  <path id='__line_Unidad__Popular__Venezolana__«UPV»' d='M 6293 5402 C 6326,5402 6304,5377 6337,5377 L 6337 5377 L 7685 5377' stroke='#4B0102' style='stroke-width:5;' />
+  <path id='__line_Solidaridad' d='M 6054 5402 C 6135.75,5402 6081.25,5552 6163,5552 L 6163 5552 L 7685 5552' stroke='#6464B3' style='stroke-width:5;' />
+  <path id='__line_Vanguardia__Bicentenaria__Republicana__«VBR»' d='M 6892 5477 C 6939.25,5477 6907.75,5427 6955,5427 L 6955 5427 L 7685 5427' stroke='#BD0001' style='stroke-width:5;' />
+  <path id='__line_Marea__Socialista__«MS»' d='M 7193 5477 C 7226,5477 7204,5452 7237,5452 L 7237 5452 L 7685 5452' stroke='#003E81' style='stroke-width:5;' />
+  <path id='__line_Nuevo__Camino__Revolucionario__«NCR»' d='M 6665 5477 C 6674,5477 6668,5527 6677,5527 L 6677 5527 L 7685 5527' stroke='#62187C' style='stroke-width:5;' />
+  <path id='__line_Monagas__Patriota' d='M 6943 5477 C 6976,5477 6954,5502 6987,5502 L 6987 5502 L 7685 5502' stroke='#396727' style='stroke-width:5;' />
+  <path id='__line_Partido__Socialista__Unido__de__Venezuela__«PSUV»' d='M 6588 5402 C 6645.75,5402 6607.25,5477 6665,5477 L 6665 5477 L 7685 5477' stroke='#FF0000' style='stroke-width:5;' />
   <path id='__line_Movimiento__V__República__«MVR»' d='M 5834 5402 L 6665 5402' stroke='#FFFF37' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__V__República__«MVR»)' />
   <path id='__line_Integración__y__Renovación__Nueva__Esperanza__«IRENE»' d='M 5850 5602 L 6040 5602' stroke='#0D8C61' style='stroke-width:5;' marker-end='url(#__stop_Integración__y__Renovación__Nueva__Esperanza__«IRENE»)' />
   <path id='__line_Frente__Independiente__Nacional__«FIN»' d='M 5850 5627 L 6483 5627' stroke='#0f1035' style='stroke-width:5;' marker-end='url(#__stop_Frente__Independiente__Nacional__«FIN»)' />
   <path id='__line_Organización__Fuerza__Movimiento__«OFM»' d='M 5850 5652 L 7040 5652' stroke='#273377' style='stroke-width:5;' marker-end='url(#__stop_Organización__Fuerza__Movimiento__«OFM»)' />
-  <path id='__line_Movimiento__100__«M-100»' d='M 5850 5677 L 7657 5677' stroke='#8DE2E9' style='stroke-width:5;' />
-  <path id='__line_Urgencia__Solidaria__de__Transformación__Estadal__Democrática__«USTED»' d='M 5850 5702 L 7657 5702' stroke='#FFF9AD' style='stroke-width:5;' />
+  <path id='__line_Movimiento__100__«M-100»' d='M 5850 5677 L 7685 5677' stroke='#8DE2E9' style='stroke-width:5;' />
+  <path id='__line_Urgencia__Solidaria__de__Transformación__Estadal__Democrática__«USTED»' d='M 5850 5702 L 7685 5702' stroke='#FFF9AD' style='stroke-width:5;' />
   <path id='__line_Unidos__por__los__Derechos__Humanos__«UDH»' d='M 5890 5727 L 6984 5727' stroke='#e6190c' style='stroke-width:5;' marker-end='url(#__stop_Unidos__por__los__Derechos__Humanos__«UDH»)' />
-  <path id='__line_Proyecto__Gente__Nueva__«PGN»' d='M 5989 5752 L 7657 5752' stroke='#D96E31' style='stroke-width:5;' />
-  <path id='__line_Corrientes__Revolucionarias__Venezolanas__«CRV»' d='M 6003 5777 L 7657 5777' stroke='#C7422C' style='stroke-width:5;' />
-  <path id='__line_Por__Mi__Pueblo__«PMP»' d='M 6010 5802 L 7657 5802' stroke='#766FB2' style='stroke-width:5;' />
+  <path id='__line_Proyecto__Gente__Nueva__«PGN»' d='M 5989 5752 L 7685 5752' stroke='#D96E31' style='stroke-width:5;' />
+  <path id='__line_Corrientes__Revolucionarias__Venezolanas__«CRV»' d='M 6003 5777 L 7685 5777' stroke='#C7422C' style='stroke-width:5;' />
+  <path id='__line_Por__Mi__Pueblo__«PMP»' d='M 6010 5802 L 7685 5802' stroke='#766FB2' style='stroke-width:5;' />
   <path id='__line_Movimiento__por__la__Democracia__Directa__«MDD»' d='M 6030 5827 L 6665 5827' stroke='#E2718B' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__por__la__Democracia__Directa__«MDD»)' />
   <path id='__line_Movimiento__Sentir__Nacional__«MSN»' d='M 6090 5852 L 6570 5852' stroke='#9E3296' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__Sentir__Nacional__«MSN»)' />
-  <path id='__line_Movimiento__Regional__de__Avanzada__«MRA»' d='M 6114 5877 L 7657 5877' stroke='#0683C6' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Regional__de__Avanzada__«MRA»' d='M 6114 5877 L 7685 5877' stroke='#0683C6' style='stroke-width:5;' />
   <path id='__line_Unión__para__el__Progreso__«UNION»' d='M 6120 5902 L 6665 5902' stroke='#DB9272' style='stroke-width:5;' marker-end='url(#__stop_Unión__para__el__Progreso__«UNION»)' />
-  <path id='__line_Unidos__Por__Monagas__«UPEM»' d='M 6147 5927 L 7657 5927' stroke='#E8A032' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Laborista__«ML»' d='M 6170 5952 L 7657 5952' stroke='#8D4925' style='stroke-width:5;' />
+  <path id='__line_Unidos__Por__Monagas__«UPEM»' d='M 6147 5927 L 7685 5927' stroke='#E8A032' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Laborista__«ML»' d='M 6170 5952 L 7685 5952' stroke='#8D4925' style='stroke-width:5;' />
   <path id='__line_Visión__Emergente__«VE»' d='M 6170 5977 L 6813 5977' stroke='#825854' style='stroke-width:5;' marker-end='url(#__stop_Visión__Emergente__«VE»)' />
-  <path id='__line_Un__Solo__Pueblo__«USP»' d='M 6215 6002 L 7657 6002' stroke='#FDB120' style='stroke-width:5;' />
-  <path id='__line_Unidad__Patriótica__de__Carabobo__«UPC»' d='M 6236 6027 L 7657 6027' stroke='#BAAD5F' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Pro__Defensa__de__la__Comunidad__«PROCOMUNIDAD»' d='M 6237 6052 L 7657 6052' stroke='#008102' style='stroke-width:5;' />
-  <path id='__line_Frente__Unido__Al__Trabajo__Social__«FRUTOS»' d='M 6250 6077 L 7657 6077' stroke='#EF0FFF' style='stroke-width:5;' />
-  <path id='__line_Movimiento__de__Concentración__Gente__Nueva__«MCGN»' d='M 6256 6102 L 7657 6102' stroke='#792D2F' style='stroke-width:5;' />
-  <path id='__line_Fuerza__Liberal__«FL»' d='M 6347 6127 L 7657 6127' stroke='#011750' style='stroke-width:5;' />
+  <path id='__line_Un__Solo__Pueblo__«USP»' d='M 6215 6002 L 7685 6002' stroke='#FDB120' style='stroke-width:5;' />
+  <path id='__line_Unidad__Patriótica__de__Carabobo__«UPC»' d='M 6236 6027 L 7685 6027' stroke='#BAAD5F' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Pro__Defensa__de__la__Comunidad__«PROCOMUNIDAD»' d='M 6237 6052 L 7685 6052' stroke='#008102' style='stroke-width:5;' />
+  <path id='__line_Frente__Unido__Al__Trabajo__Social__«FRUTOS»' d='M 6250 6077 L 7685 6077' stroke='#EF0FFF' style='stroke-width:5;' />
+  <path id='__line_Movimiento__de__Concentración__Gente__Nueva__«MCGN»' d='M 6256 6102 L 7685 6102' stroke='#792D2F' style='stroke-width:5;' />
+  <path id='__line_Fuerza__Liberal__«FL»' d='M 6347 6127 L 7685 6127' stroke='#011750' style='stroke-width:5;' />
   <path id='__line_Movimiento__Cívico__Militante__«MCM»' d='M 6383 6152 L 6665 6152' stroke='#CC0001' style='stroke-width:5;' marker-end='url(#__stop_Movimiento__Cívico__Militante__«MCM»)' />
-  <path id='__line_Tendencias__Unificadas__Para__Alcanzar__el__Movimiento__de__Acción__Revolucionaria__Organizada__«TUPAMARO»' d='M 6394 6177 L 7657 6177' stroke='#FF0000' style='stroke-width:5;' />
-  <path id='__line_Visión__Venezuela__«VISION»' d='M 6410 6202 L 7657 6202' stroke='#E21E29' style='stroke-width:5;' />
-  <path id='__line_Juventud__Unida__en__Acción__Nacional__Con__Bimba__«Juan__Bimba»' d='M 6410 6227 L 7657 6227' stroke='#BCBCBC' style='stroke-width:5;' />
-  <path id='__line_Nuevo__Pacto__«NP»' d='M 6410 6252 L 7657 6252' stroke='#303092' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Bastión__Revolucionario__200__4-Fases__«MOBARE__200-4F»' d='M 6410 6277 L 7657 6277' stroke='#C74B3F' style='stroke-width:5;' />
-  <path id='__line_Alianza__Social__Independiente__Sucre__«ASIS»' d='M 6410 6302 L 7657 6302' stroke='#96978A' style='stroke-width:5;' />
-  <path id='__line_Fundación__Para__La__Capacitación,__Integración__Y__Dignificación__Del__Indígena__«FUNDACIDI»' d='M 6410 6327 L 7657 6327' stroke='#D77382' style='stroke-width:5;' />
-  <path id='__line_Comunidad__Indígena__Chaima__Amanita__«AMANITA»' d='M 6410 6352 L 7657 6352' stroke='#AB7756' style='stroke-width:5;' />
-  <path id='__line_Fundación__Para__El__Desarrollo__De__La__Guajira__«FUNDAPAEZ»' d='M 6410 6377 L 7657 6377' stroke='#E47F39' style='stroke-width:5;' />
-  <path id='__line_Poder__Laboral__«PL»' d='M 6410 6402 L 7657 6402' stroke='#9A7E2A' style='stroke-width:5;' />
-  <path id='__line_Unidad__de__Vencedores__Electorales__«UVE»' d='M 6432 6427 L 7657 6427' stroke='#A192B6' style='stroke-width:5;' />
+  <path id='__line_Tendencias__Unificadas__Para__Alcanzar__el__Movimiento__de__Acción__Revolucionaria__Organizada__«TUPAMARO»' d='M 6394 6177 L 7685 6177' stroke='#FF0000' style='stroke-width:5;' />
+  <path id='__line_Visión__Venezuela__«VISION»' d='M 6410 6202 L 7685 6202' stroke='#E21E29' style='stroke-width:5;' />
+  <path id='__line_Juventud__Unida__en__Acción__Nacional__Con__Bimba__«Juan__Bimba»' d='M 6410 6227 L 7685 6227' stroke='#BCBCBC' style='stroke-width:5;' />
+  <path id='__line_Nuevo__Pacto__«NP»' d='M 6410 6252 L 7685 6252' stroke='#303092' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Bastión__Revolucionario__200__4-Fases__«MOBARE__200-4F»' d='M 6410 6277 L 7685 6277' stroke='#C74B3F' style='stroke-width:5;' />
+  <path id='__line_Alianza__Social__Independiente__Sucre__«ASIS»' d='M 6410 6302 L 7685 6302' stroke='#96978A' style='stroke-width:5;' />
+  <path id='__line_Fundación__Para__La__Capacitación,__Integración__Y__Dignificación__Del__Indígena__«FUNDACIDI»' d='M 6410 6327 L 7685 6327' stroke='#D77382' style='stroke-width:5;' />
+  <path id='__line_Comunidad__Indígena__Chaima__Amanita__«AMANITA»' d='M 6410 6352 L 7685 6352' stroke='#AB7756' style='stroke-width:5;' />
+  <path id='__line_Fundación__Para__El__Desarrollo__De__La__Guajira__«FUNDAPAEZ»' d='M 6410 6377 L 7685 6377' stroke='#E47F39' style='stroke-width:5;' />
+  <path id='__line_Poder__Laboral__«PL»' d='M 6410 6402 L 7685 6402' stroke='#9A7E2A' style='stroke-width:5;' />
+  <path id='__line_Unidad__de__Vencedores__Electorales__«UVE»' d='M 6432 6427 L 7685 6427' stroke='#A192B6' style='stroke-width:5;' />
   <path id='__line_Venezuela__de__Primera' d='M 6463 6452 L 6877 6452' stroke='#AFE1FC' style='stroke-width:5;' marker-end='url(#__stop_Venezuela__de__Primera)' />
-  <path id='__line_Juventud__Organizada__en__Venezuela__«JOVEN»' d='M 6476 6477 L 7657 6477' stroke='#c1f4eb' style='stroke-width:5;' />
-  <path id='__line_Nueva__Alianza__Progresista__«NAPO»' d='M 6516 6502 L 7657 6502' stroke='#EF8124' style='stroke-width:5;' />
-  <path id='__line_Nosotros__Organizados__Elegimos__«NOE»' d='M 6517 6527 L 7657 6527' stroke='#7193BF' style='stroke-width:5;' />
-  <path id='__line_Partido__Socialista__Organizado__en__Venezuela__«PSOEV»' d='M 6532 6552 L 7657 6552' stroke='#B61C36' style='stroke-width:5;' />
+  <path id='__line_Juventud__Organizada__en__Venezuela__«JOVEN»' d='M 6476 6477 L 7685 6477' stroke='#c1f4eb' style='stroke-width:5;' />
+  <path id='__line_Nueva__Alianza__Progresista__«NAPO»' d='M 6516 6502 L 7685 6502' stroke='#EF8124' style='stroke-width:5;' />
+  <path id='__line_Nosotros__Organizados__Elegimos__«NOE»' d='M 6517 6527 L 7685 6527' stroke='#7193BF' style='stroke-width:5;' />
+  <path id='__line_Partido__Socialista__Organizado__en__Venezuela__«PSOEV»' d='M 6532 6552 L 7685 6552' stroke='#B61C36' style='stroke-width:5;' />
   <path id='__line_Partido__Independiente__Electoral__Democrático__Respuesta__Avanzada__«PIEDRA»' d='M 6536 6577 L 7046 6577' stroke='#900020' style='stroke-width:5;' marker-end='url(#__stop_Partido__Independiente__Electoral__Democrático__Respuesta__Avanzada__«PIEDRA»)' />
   <path id='__line_Clase__Media__Revolucionaria__«CMR»' d='M 6537 6602 L 6665 6602' stroke='#F7E360' style='stroke-width:5;' marker-end='url(#__stop_Clase__Media__Revolucionaria__«CMR»)' />
-  <path id='__line_Nuevo__Orden__Social__«NOS»' d='M 6541 6627 L 7657 6627' stroke='#FF99CC' style='stroke-width:5;' />
-  <path id='__line_Renovación__en__Democracia__Nacimiento__Alternativo__«RENA»' d='M 6549 6652 L 7657 6652' stroke='#2A3137' style='stroke-width:5;' />
-  <path id='__line_Por__Amor__A__Los__Pueblos__«PAP»' d='M 6646 6677 L 7657 6677' stroke='#A03930' style='stroke-width:5;' />
-  <path id='__line_Unidad__Democrática__«UDEMO»' d='M 6650 6702 L 7657 6702' stroke='#FEFD54' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Independiente__Por__Amor__A__Monagas__«MIPAM»' d='M 6650 6727 L 7657 6727' stroke='#EDCDF2' style='stroke-width:5;' />
-  <path id='__line_Asociación__De__Productores__Salineros__Indígenas__«APRISAL»' d='M 6650 6752 L 7657 6752' stroke='#8C8C68' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Ecológico__de__Venezuela__«MOVEV»' d='M 6656 6777 L 7657 6777' stroke='#68B92E' style='stroke-width:5;' />
-  <path id='__line_Unidad__Soberana__«US»' d='M 6666 6802 L 7657 6802' stroke='#EE6842' style='stroke-width:5;' />
-  <path id='__line_Partido__Laboral__Rumbo__al__Socialismo__«PLRAS»' d='M 6674 6827 L 7657 6827' stroke='#991533' style='stroke-width:5;' />
-  <path id='__line_Unidad__Socialista__de__Izquierda' d='M 6675 6852 L 7657 6852' stroke='#98572F' style='stroke-width:5;' />
-  <path id='__line_Cuentas__Claras__«CC»' d='M 6681 6877 L 7657 6877' stroke='#86C919' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Alternativo__Buscando__Soluciones__«MABS»' d='M 6683 6902 L 7657 6902' stroke='#5BA4B2' style='stroke-width:5;' />
-  <path id='__line_Una__Mano__Amiga__Revolucionaria__«UMAR»' d='M 6683 6927 L 7657 6927' stroke='#F9140F' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Liberador__Sucre__Despierta__«MLSD»' d='M 6696 6952 L 7657 6952' stroke='#FF8D75' style='stroke-width:5;' />
-  <path id='__line_Revolucionario__Independiente__Organizado__Social__«RIOS»' d='M 6702 6977 L 7657 6977' stroke='#003953' style='stroke-width:5;' />
-  <path id='__line_Unidos__para__Venezuela__«UNPARVE»' d='M 6705 7002 L 7657 7002' stroke='#D48245' style='stroke-width:5;' />
-  <path id='__line_Yacimiento__Indigenista__Venezolano__Independiente__«YIVI»' d='M 6705 7027 L 7657 7027' stroke='#9E0500' style='stroke-width:5;' />
-  <path id='__line_Tiempo__Social__Nacionalista__«TISON»' d='M 6707 7052 L 7657 7052' stroke='#FE6017' style='stroke-width:5;' />
-  <path id='__line_Frente__Popular__Humanista' d='M 6732 7077 L 7657 7077' stroke='#AE2984' style='stroke-width:5;' />
-  <path id='__line_Todos__Unidos__Por__Amazonas__«TUPAZ»' d='M 6754 7102 L 7657 7102' stroke='#E9D37E' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Pluriétnico__Intercultural__De__Venezuela__«MOPIVENE»' d='M 6814 7127 C 6847,7127 6825,7152 6858,7152 L 6858 7152 L 7657 7152' stroke='#A56F29' style='stroke-width:5;' />
-  <path id='__line_Movimiento__De__los__Pueblos__Indígenas__«MOPIVE»' d='M 6754 7127 L 7657 7127' stroke='#443427' style='stroke-width:5;' />
-  <path id='__line_Vamos__Adelante__«VA__PA’__LANTE»' d='M 6810 7177 L 7657 7177' stroke='#3F2578' style='stroke-width:5;' />
-  <path id='__line_Demócratas__Aliados__De__Libre__Expresión__«DALE»' d='M 6810 7202 L 7657 7202' stroke='#F6D43A' style='stroke-width:5;' />
-  <path id='__line_Parlamento__Indígena__De__Venezuela__«PARLINVE»' d='M 6810 7227 L 7657 7227' stroke='#6E8F02' style='stroke-width:5;' />
-  <path id='__line_Carabobo__Militancia__Nacional__«CAMINA»' d='M 6810 7252 L 7657 7252' stroke='#CACCCA' style='stroke-width:5;' />
-  <path id='__line_Consenso__En__La__Zona__«CONENZO»' d='M 6810 7277 L 7657 7277' stroke='#604E03' style='stroke-width:5;' />
-  <path id='__line_Asociación__Civil__Indígena__Santa__Barbara__De__Tapirin__«ASOCINSABAT»' d='M 6810 7302 L 7657 7302' stroke='#17323E' style='stroke-width:5;' />
-  <path id='__line_Fundación__Guajira__Venezolana__«GUAJIRAVEN»' d='M 6810 7327 L 7657 7327' stroke='#5983A7' style='stroke-width:5;' />
-  <path id='__line_Asociación__Civil__Única__De__Comerciantes__Indígenas__De__La__República__Bolivariana__De__Venezuela__«ASOCOINBO»' d='M 6810 7352 L 7657 7352' stroke='#92B148' style='stroke-width:5;' />
-  <path id='__line_Mesa__De__La__Unidad__Democrática__«MUD»' d='M 6887 7377 L 7657 7377' stroke='#98CED6' style='stroke-width:5;' />
-  <path id='__line_Partido__Revolucionario__del__Trabajo__«PRT»' d='M 6890 7402 L 7657 7402' stroke='#82858E' style='stroke-width:5;' />
-  <path id='__line_Alianza__Generacional__«AGEN»' d='M 6940 7427 L 7657 7427' stroke='#0B0811' style='stroke-width:5;' />
-  <path id='__line_Tinaquillo__Es__Primero__«TINA__ES__I»' d='M 6947 7452 L 7657 7452' stroke='#FCCA69' style='stroke-width:5;' />
-  <path id='__line_Orinoco-Sur__«ORISUR»' d='M 6952 7477 L 7657 7477' stroke='#A3A3A3' style='stroke-width:5;' />
-  <path id='__line_Asociación__Civil__Cátedra__Guaicaipuro__«CATEDRA__GUAICAIPURO»' d='M 6970 7502 L 7657 7502' stroke='#7E8592' style='stroke-width:5;' />
-  <path id='__line_Agrupación__Indígena__Evolución__«EVOLUCION»' d='M 6970 7527 L 7657 7527' stroke='#8D6259' style='stroke-width:5;' />
-  <path id='__line_Movimiento__de__Renovación__Socialista__«MRS»' d='M 6970 7552 L 7657 7552' stroke='#95120D' style='stroke-width:5;' />
-  <path id='__line_Comunidad__Indígena__De__San__Francisco__De__Yuruani__«KUMARAKAPAY»' d='M 6970 7577 L 7657 7577' stroke='#E9D14C' style='stroke-width:5;' />
-  <path id='__line_Sociedad__Indígena__«SOCIEDAD__INDIGENA»' d='M 6970 7602 L 7657 7602' stroke='#659A04' style='stroke-width:5;' />
-  <path id='__line_Partido__Democrático__Unidos__por__la__Paz__y__la__Libertad__«PDUPL»' d='M 6976 7627 L 7657 7627' stroke='#E356FD' style='stroke-width:5;' />
-  <path id='__line_Partido__Socialista__De__Los__Cojedeños__«PASOCO»' d='M 6992 7652 L 7657 7652' stroke='#C36F89' style='stroke-width:5;' />
-  <path id='__line_Vente__Venezuela__«VV»' d='M 7001 7677 L 7657 7677' stroke='#00B5EA' style='stroke-width:5;' />
-  <path id='__line_Manos__Por__Venezuela__«MAPVE»' d='M 7002 7702 L 7657 7702' stroke='#b9b179' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Venezuela__Responsable,__Emprendedora__y__Sostenible__«MOVERSE»' d='M 7003 7727 L 7657 7727' stroke='#2C9202' style='stroke-width:5;' />
-  <path id='__line_Gente__Independiente__«GI»' d='M 7004 7752 L 7657 7752' stroke='#D3DB54' style='stroke-width:5;' />
-  <path id='__line_Progresistas__Merideños__Independientes__«PMI»' d='M 7007 7777 L 7657 7777' stroke='#5A82C7' style='stroke-width:5;' />
-  <path id='__line_Proyecto__Guayana__«PRO__GUAYANA»' d='M 7007 7802 L 7657 7802' stroke='#99C54A' style='stroke-width:5;' />
-  <path id='__line_Cambio__y__Reestructuración__Para__El__Estado__Amazonas__«CREEA»' d='M 7007 7827 L 7657 7827' stroke='#F6A562' style='stroke-width:5;' />
-  <path id='__line_Redes__de__Respuesta__de__Cambios__Comunitarios__«REDES»' d='M 7013 7852 L 7657 7852' stroke='#E40613' style='stroke-width:5;' />
-  <path id='__line_Nueva__Visión__para__mi__País__«NUVIPA»' d='M 7013 7877 L 7657 7877' stroke='#2B7F7E' style='stroke-width:5;' />
-  <path id='__line_Aragua__Unida__«AU»' d='M 7018 7902 L 7657 7902' stroke='#8aa8fe' style='stroke-width:5;' />
-  <path id='__line_Partido__de__Reconciliación__Organizado__de__Gestión__Reformadora__Electoral__Social__y__Orden__«PROGRESO»' d='M 7050 7927 L 7657 7927' stroke='#F26424' style='stroke-width:5;' />
-  <path id='__line_Federacion__Indígena__Bolivariana__Del__Estado__Anzoategui,__Cacique__Cayaurima__«FEDECAYAURIMA»' d='M 7050 7952 L 7657 7952' stroke='#C7271C' style='stroke-width:5;' />
-  <path id='__line_Cooperativa__De__Transporte__Kalaiira__Wayuu__RS__«KALAIIRA»' d='M 7050 7977 L 7657 7977' stroke='#CD5F1B' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Político__Alianza__para__el__Cambio__«MPAPC»' d='M 7096 8002 L 7657 8002' stroke='#C1086D' style='stroke-width:5;' />
-  <path id='__line_Independientes__Por__el__Progreso__«IPP»' d='M 7161 8027 L 7657 8027' stroke='#FB5933' style='stroke-width:5;' />
-  <path id='__line_Organización__Socialista__Indígena__Bolivariana__De__Venezuela__«OSIBU»' d='M 7210 8052 L 7657 8052' stroke='#E0404A' style='stroke-width:5;' />
-  <path id='__line_Asociación__Civil__Indígena__Warao__Maraisa__Kojotuka__«MARAISA__K»' d='M 7210 8077 L 7657 8077' stroke='#76150F' style='stroke-width:5;' />
-  <path id='__line_Juega__Limpio__«JL»' d='M 7228 8102 L 7657 8102' stroke='#00949C' style='stroke-width:5;' />
-  <path id='__line_Partido__Unión__y__Entendimiento__«PUENTE»' d='M 7267 8127 L 7657 8127' stroke='#00A8E3' style='stroke-width:5;' />
-  <path id='__line_Prociudadanos' d='M 7323 8152 L 7657 8152' stroke='#024D77' style='stroke-width:5;' />
-  <path id='__line_Asociación__Civil__Indígena__Chaima__Libres__Socialista__«ACICHILSO»' d='M 7450 8177 L 7657 8177' stroke='#E0322F' style='stroke-width:5;' />
-  <path id='__line_Federacion__Comunal__Indígena__Kariña__Nuestra__Señora__De__La__Concepcion__De__La__Meseta__De__Sante__Fe__«FCIKNSCMSES»' d='M 7450 8202 L 7657 8202' stroke='#F1DD46' style='stroke-width:5;' />
-  <path id='__line_Comunidad__Indígena__San__Antonio__«MARAISA__KOJOTUKA»' d='M 7450 8227 L 7657 8227' stroke='#B55B20' style='stroke-width:5;' />
-  <path id='__line_Juntos__La__Venezuela__Que__Viene' d='M 7456 8252 L 7657 8252' stroke='#00326D' style='stroke-width:5;' />
-  <path id='__line_Coalición__Ciudadanos__Organizados__«CCO»' d='M 7457 8277 L 7657 8277' stroke='#83D9ED' style='stroke-width:5;' />
-  <path id='__line_Guayana__Nuestra__«GN»' d='M 7457 8302 L 7657 8302' stroke='#51592A' style='stroke-width:5;' />
-  <path id='__line_Lara__Independiente__«LAIN»' d='M 7457 8327 L 7657 8327' stroke='#F6F500' style='stroke-width:5;' />
-  <path id='__line_Visión__Futuro__De__Miranda__«VFM»' d='M 7457 8352 L 7657 8352' stroke='#F402F6' style='stroke-width:5;' />
-  <path id='__line_Partido__Independiente__Popular__Del__Estado__Portuguesa' d='M 7457 8377 L 7657 8377' stroke='#DDAE80' style='stroke-width:5;' />
-  <path id='__line_Unidad__Por__El__Cambio__Y__El__Progreso__«UCP»' d='M 7457 8402 L 7657 8402' stroke='#2F2F34' style='stroke-width:5;' />
-  <path id='__line_Esperanza__por__El__Cambio__«ELCAMBIO»' d='M 7460 8427 L 7657 8427' stroke='#738C1F' style='stroke-width:5;' />
-  <path id='__line_Partido__Centro__Democrático__«PCD»' d='M 7477 8452 L 7657 8452' stroke='#00A200' style='stroke-width:5;' />
-  <path id='__line_Cambiemos__Movimiento__Ciudadano__«CMC»' d='M 7495 8477 L 7657 8477' stroke='#872183' style='stroke-width:5;' />
-  <path id='__line_Por__Ti__Venezuela__«PTV»' d='M 7495 8502 L 7657 8502' stroke='#2177c8' style='stroke-width:5;' />
-  <path id='__line_Acción__Ciudadana__En__Positivo__«ACEP»' d='M 7495 8527 L 7657 8527' stroke='#8b3cb8' style='stroke-width:5;' />
-  <path id='__line_Soluciones__Para__Venezuela__«SPV»' d='M 7495 8552 L 7657 8552' stroke='#e88c07' style='stroke-width:5;' />
-  <path id='__line_Partido__Independiente__De__Venezuela__«PIV»' d='M 7495 8577 L 7657 8577' stroke='#c0c9aa' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Político__Caracas__Para__Todos__«MPCPT»' d='M 7606 8602 L 7657 8602' stroke='#4E310E' style='stroke-width:5;' />
-  <path id='__line_Movimiento__Prosperidad__Democrática__«MPD»' d='M 7606 8627 L 7657 8627' stroke='#2B2B2B' style='stroke-width:5;' />
-  <path id='__line_Plataforma__Aragua__Democrática__«PLAD»' d='M 7606 8652 L 7657 8652' stroke='#233448' style='stroke-width:5;' />
-  <path id='__line_Red__De__Aragua__«RDA»' d='M 7606 8677 L 7657 8677' stroke='#F7BB6D' style='stroke-width:5;' />
-  <path id='__line_Carabobeños__Por__Aragua__«CPC»' d='M 7606 8702 L 7657 8702' stroke='#4F463C' style='stroke-width:5;' />
-  <path id='__line_Construyendo__Caminos__«CC»' d='M 7606 8727 L 7657 8727' stroke='#7A2E60' style='stroke-width:5;' />
-  <path id='__line_Fuerza__Vecinal__«FV»' d='M 7606 8752 L 7657 8752' stroke='#B27F13' style='stroke-width:5;' />
-  <path id='__line_Nuevo__Liderazgo__Vecinal__«NLV»' d='M 7606 8777 L 7657 8777' stroke='#00513A' style='stroke-width:5;' />
-  <path id='__line_Partido__De__Acción__Zuliana__«PAZ»' d='M 7606 8802 L 7657 8802' stroke='#F0C71C' style='stroke-width:5;' />
+  <path id='__line_Nuevo__Orden__Social__«NOS»' d='M 6541 6627 L 7685 6627' stroke='#FF99CC' style='stroke-width:5;' />
+  <path id='__line_Renovación__en__Democracia__Nacimiento__Alternativo__«RENA»' d='M 6549 6652 L 7685 6652' stroke='#2A3137' style='stroke-width:5;' />
+  <path id='__line_Por__Amor__A__Los__Pueblos__«PAP»' d='M 6646 6677 L 7685 6677' stroke='#A03930' style='stroke-width:5;' />
+  <path id='__line_Unidad__Democrática__«UDEMO»' d='M 6650 6702 L 7685 6702' stroke='#FEFD54' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Independiente__Por__Amor__A__Monagas__«MIPAM»' d='M 6650 6727 L 7685 6727' stroke='#EDCDF2' style='stroke-width:5;' />
+  <path id='__line_Asociación__De__Productores__Salineros__Indígenas__«APRISAL»' d='M 6650 6752 L 7685 6752' stroke='#8C8C68' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Ecológico__de__Venezuela__«MOVEV»' d='M 6656 6777 L 7685 6777' stroke='#68B92E' style='stroke-width:5;' />
+  <path id='__line_Unidad__Soberana__«US»' d='M 6666 6802 L 7685 6802' stroke='#EE6842' style='stroke-width:5;' />
+  <path id='__line_Partido__Laboral__Rumbo__al__Socialismo__«PLRAS»' d='M 6674 6827 L 7685 6827' stroke='#991533' style='stroke-width:5;' />
+  <path id='__line_Unidad__Socialista__de__Izquierda' d='M 6675 6852 L 7685 6852' stroke='#98572F' style='stroke-width:5;' />
+  <path id='__line_Cuentas__Claras__«CC»' d='M 6681 6877 L 7685 6877' stroke='#86C919' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Alternativo__Buscando__Soluciones__«MABS»' d='M 6683 6902 L 7685 6902' stroke='#5BA4B2' style='stroke-width:5;' />
+  <path id='__line_Una__Mano__Amiga__Revolucionaria__«UMAR»' d='M 6683 6927 L 7685 6927' stroke='#F9140F' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Liberador__Sucre__Despierta__«MLSD»' d='M 6696 6952 L 7685 6952' stroke='#FF8D75' style='stroke-width:5;' />
+  <path id='__line_Revolucionario__Independiente__Organizado__Social__«RIOS»' d='M 6702 6977 L 7685 6977' stroke='#003953' style='stroke-width:5;' />
+  <path id='__line_Unidos__para__Venezuela__«UNPARVE»' d='M 6705 7002 L 7685 7002' stroke='#D48245' style='stroke-width:5;' />
+  <path id='__line_Yacimiento__Indigenista__Venezolano__Independiente__«YIVI»' d='M 6705 7027 L 7685 7027' stroke='#9E0500' style='stroke-width:5;' />
+  <path id='__line_Tiempo__Social__Nacionalista__«TISON»' d='M 6707 7052 L 7685 7052' stroke='#FE6017' style='stroke-width:5;' />
+  <path id='__line_Frente__Popular__Humanista' d='M 6732 7077 L 7685 7077' stroke='#AE2984' style='stroke-width:5;' />
+  <path id='__line_Todos__Unidos__Por__Amazonas__«TUPAZ»' d='M 6754 7102 L 7685 7102' stroke='#E9D37E' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Pluriétnico__Intercultural__De__Venezuela__«MOPIVENE»' d='M 6814 7127 C 6847,7127 6825,7152 6858,7152 L 6858 7152 L 7685 7152' stroke='#A56F29' style='stroke-width:5;' />
+  <path id='__line_Movimiento__De__los__Pueblos__Indígenas__«MOPIVE»' d='M 6754 7127 L 7685 7127' stroke='#443427' style='stroke-width:5;' />
+  <path id='__line_Vamos__Adelante__«VA__PA’__LANTE»' d='M 6810 7177 L 7685 7177' stroke='#3F2578' style='stroke-width:5;' />
+  <path id='__line_Demócratas__Aliados__De__Libre__Expresión__«DALE»' d='M 6810 7202 L 7685 7202' stroke='#F6D43A' style='stroke-width:5;' />
+  <path id='__line_Parlamento__Indígena__De__Venezuela__«PARLINVE»' d='M 6810 7227 L 7685 7227' stroke='#6E8F02' style='stroke-width:5;' />
+  <path id='__line_Carabobo__Militancia__Nacional__«CAMINA»' d='M 6810 7252 L 7685 7252' stroke='#CACCCA' style='stroke-width:5;' />
+  <path id='__line_Consenso__En__La__Zona__«CONENZO»' d='M 6810 7277 L 7685 7277' stroke='#604E03' style='stroke-width:5;' />
+  <path id='__line_Asociación__Civil__Indígena__Santa__Barbara__De__Tapirin__«ASOCINSABAT»' d='M 6810 7302 L 7685 7302' stroke='#17323E' style='stroke-width:5;' />
+  <path id='__line_Fundación__Guajira__Venezolana__«GUAJIRAVEN»' d='M 6810 7327 L 7685 7327' stroke='#5983A7' style='stroke-width:5;' />
+  <path id='__line_Asociación__Civil__Única__De__Comerciantes__Indígenas__De__La__República__Bolivariana__De__Venezuela__«ASOCOINBO»' d='M 6810 7352 L 7685 7352' stroke='#92B148' style='stroke-width:5;' />
+  <path id='__line_Mesa__De__La__Unidad__Democrática__«MUD»' d='M 6887 7377 L 7685 7377' stroke='#98CED6' style='stroke-width:5;' />
+  <path id='__line_Partido__Revolucionario__del__Trabajo__«PRT»' d='M 6890 7402 L 7685 7402' stroke='#82858E' style='stroke-width:5;' />
+  <path id='__line_Alianza__Generacional__«AGEN»' d='M 6940 7427 L 7685 7427' stroke='#0B0811' style='stroke-width:5;' />
+  <path id='__line_Tinaquillo__Es__Primero__«TINA__ES__I»' d='M 6947 7452 L 7685 7452' stroke='#FCCA69' style='stroke-width:5;' />
+  <path id='__line_Orinoco-Sur__«ORISUR»' d='M 6952 7477 L 7685 7477' stroke='#A3A3A3' style='stroke-width:5;' />
+  <path id='__line_Asociación__Civil__Cátedra__Guaicaipuro__«CATEDRA__GUAICAIPURO»' d='M 6970 7502 L 7685 7502' stroke='#7E8592' style='stroke-width:5;' />
+  <path id='__line_Agrupación__Indígena__Evolución__«EVOLUCION»' d='M 6970 7527 L 7685 7527' stroke='#8D6259' style='stroke-width:5;' />
+  <path id='__line_Movimiento__de__Renovación__Socialista__«MRS»' d='M 6970 7552 L 7685 7552' stroke='#95120D' style='stroke-width:5;' />
+  <path id='__line_Comunidad__Indígena__De__San__Francisco__De__Yuruani__«KUMARAKAPAY»' d='M 6970 7577 L 7685 7577' stroke='#E9D14C' style='stroke-width:5;' />
+  <path id='__line_Sociedad__Indígena__«SOCIEDAD__INDIGENA»' d='M 6970 7602 L 7685 7602' stroke='#659A04' style='stroke-width:5;' />
+  <path id='__line_Partido__Democrático__Unidos__por__la__Paz__y__la__Libertad__«PDUPL»' d='M 6976 7627 L 7685 7627' stroke='#E356FD' style='stroke-width:5;' />
+  <path id='__line_Partido__Socialista__De__Los__Cojedeños__«PASOCO»' d='M 6992 7652 L 7685 7652' stroke='#C36F89' style='stroke-width:5;' />
+  <path id='__line_Vente__Venezuela__«VV»' d='M 7001 7677 L 7685 7677' stroke='#00B5EA' style='stroke-width:5;' />
+  <path id='__line_Manos__Por__Venezuela__«MAPVE»' d='M 7002 7702 L 7685 7702' stroke='#b9b179' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Venezuela__Responsable,__Emprendedora__y__Sostenible__«MOVERSE»' d='M 7003 7727 L 7685 7727' stroke='#2C9202' style='stroke-width:5;' />
+  <path id='__line_Gente__Independiente__«GI»' d='M 7004 7752 L 7685 7752' stroke='#D3DB54' style='stroke-width:5;' />
+  <path id='__line_Progresistas__Merideños__Independientes__«PMI»' d='M 7007 7777 L 7685 7777' stroke='#5A82C7' style='stroke-width:5;' />
+  <path id='__line_Proyecto__Guayana__«PRO__GUAYANA»' d='M 7007 7802 L 7685 7802' stroke='#99C54A' style='stroke-width:5;' />
+  <path id='__line_Cambio__y__Reestructuración__Para__El__Estado__Amazonas__«CREEA»' d='M 7007 7827 L 7685 7827' stroke='#F6A562' style='stroke-width:5;' />
+  <path id='__line_Redes__de__Respuesta__de__Cambios__Comunitarios__«REDES»' d='M 7013 7852 L 7685 7852' stroke='#E40613' style='stroke-width:5;' />
+  <path id='__line_Nueva__Visión__para__mi__País__«NUVIPA»' d='M 7013 7877 L 7685 7877' stroke='#2B7F7E' style='stroke-width:5;' />
+  <path id='__line_Aragua__Unida__«AU»' d='M 7018 7902 L 7685 7902' stroke='#8aa8fe' style='stroke-width:5;' />
+  <path id='__line_Partido__de__Reconciliación__Organizado__de__Gestión__Reformadora__Electoral__Social__y__Orden__«PROGRESO»' d='M 7050 7927 L 7685 7927' stroke='#F26424' style='stroke-width:5;' />
+  <path id='__line_Federacion__Indígena__Bolivariana__Del__Estado__Anzoategui,__Cacique__Cayaurima__«FEDECAYAURIMA»' d='M 7050 7952 L 7685 7952' stroke='#C7271C' style='stroke-width:5;' />
+  <path id='__line_Cooperativa__De__Transporte__Kalaiira__Wayuu__RS__«KALAIIRA»' d='M 7050 7977 L 7685 7977' stroke='#CD5F1B' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Político__Alianza__para__el__Cambio__«MPAPC»' d='M 7096 8002 L 7685 8002' stroke='#C1086D' style='stroke-width:5;' />
+  <path id='__line_Independientes__Por__el__Progreso__«IPP»' d='M 7161 8027 L 7685 8027' stroke='#FB5933' style='stroke-width:5;' />
+  <path id='__line_Organización__Socialista__Indígena__Bolivariana__De__Venezuela__«OSIBU»' d='M 7210 8052 L 7685 8052' stroke='#E0404A' style='stroke-width:5;' />
+  <path id='__line_Asociación__Civil__Indígena__Warao__Maraisa__Kojotuka__«MARAISA__K»' d='M 7210 8077 L 7685 8077' stroke='#76150F' style='stroke-width:5;' />
+  <path id='__line_Juega__Limpio__«JL»' d='M 7228 8102 L 7685 8102' stroke='#00949C' style='stroke-width:5;' />
+  <path id='__line_Partido__Unión__y__Entendimiento__«PUENTE»' d='M 7267 8127 L 7685 8127' stroke='#00A8E3' style='stroke-width:5;' />
+  <path id='__line_Prociudadanos' d='M 7323 8152 L 7685 8152' stroke='#024D77' style='stroke-width:5;' />
+  <path id='__line_Asociación__Civil__Indígena__Chaima__Libres__Socialista__«ACICHILSO»' d='M 7450 8177 L 7685 8177' stroke='#E0322F' style='stroke-width:5;' />
+  <path id='__line_Federacion__Comunal__Indígena__Kariña__Nuestra__Señora__De__La__Concepcion__De__La__Meseta__De__Sante__Fe__«FCIKNSCMSES»' d='M 7450 8202 L 7685 8202' stroke='#F1DD46' style='stroke-width:5;' />
+  <path id='__line_Comunidad__Indígena__San__Antonio__«MARAISA__KOJOTUKA»' d='M 7450 8227 L 7685 8227' stroke='#B55B20' style='stroke-width:5;' />
+  <path id='__line_Juntos__La__Venezuela__Que__Viene' d='M 7456 8252 L 7685 8252' stroke='#00326D' style='stroke-width:5;' />
+  <path id='__line_Coalición__Ciudadanos__Organizados__«CCO»' d='M 7457 8277 L 7685 8277' stroke='#83D9ED' style='stroke-width:5;' />
+  <path id='__line_Guayana__Nuestra__«GN»' d='M 7457 8302 L 7685 8302' stroke='#51592A' style='stroke-width:5;' />
+  <path id='__line_Lara__Independiente__«LAIN»' d='M 7457 8327 L 7685 8327' stroke='#F6F500' style='stroke-width:5;' />
+  <path id='__line_Visión__Futuro__De__Miranda__«VFM»' d='M 7457 8352 L 7685 8352' stroke='#F402F6' style='stroke-width:5;' />
+  <path id='__line_Partido__Independiente__Popular__Del__Estado__Portuguesa' d='M 7457 8377 L 7685 8377' stroke='#DDAE80' style='stroke-width:5;' />
+  <path id='__line_Unidad__Por__El__Cambio__Y__El__Progreso__«UCP»' d='M 7457 8402 L 7685 8402' stroke='#2F2F34' style='stroke-width:5;' />
+  <path id='__line_Esperanza__por__El__Cambio__«ELCAMBIO»' d='M 7460 8427 L 7685 8427' stroke='#738C1F' style='stroke-width:5;' />
+  <path id='__line_Partido__Centro__Democrático__«PCD»' d='M 7477 8452 L 7685 8452' stroke='#00A200' style='stroke-width:5;' />
+  <path id='__line_Cambiemos__Movimiento__Ciudadano__«CMC»' d='M 7495 8477 L 7685 8477' stroke='#872183' style='stroke-width:5;' />
+  <path id='__line_Por__Ti__Venezuela__«PTV»' d='M 7495 8502 L 7685 8502' stroke='#2177c8' style='stroke-width:5;' />
+  <path id='__line_Acción__Ciudadana__En__Positivo__«ACEP»' d='M 7495 8527 L 7685 8527' stroke='#8b3cb8' style='stroke-width:5;' />
+  <path id='__line_Soluciones__Para__Venezuela__«SPV»' d='M 7495 8552 L 7685 8552' stroke='#e88c07' style='stroke-width:5;' />
+  <path id='__line_Partido__Independiente__De__Venezuela__«PIV»' d='M 7495 8577 L 7685 8577' stroke='#c0c9aa' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Político__Caracas__Para__Todos__«MPCPT»' d='M 7606 8602 L 7685 8602' stroke='#4E310E' style='stroke-width:5;' />
+  <path id='__line_Movimiento__Prosperidad__Democrática__«MPD»' d='M 7606 8627 L 7685 8627' stroke='#2B2B2B' style='stroke-width:5;' />
+  <path id='__line_Plataforma__Aragua__Democrática__«PLAD»' d='M 7606 8652 L 7685 8652' stroke='#233448' style='stroke-width:5;' />
+  <path id='__line_Red__De__Aragua__«RDA»' d='M 7606 8677 L 7685 8677' stroke='#F7BB6D' style='stroke-width:5;' />
+  <path id='__line_Carabobeños__Por__Aragua__«CPC»' d='M 7606 8702 L 7685 8702' stroke='#4F463C' style='stroke-width:5;' />
+  <path id='__line_Construyendo__Caminos__«CC»' d='M 7606 8727 L 7685 8727' stroke='#7A2E60' style='stroke-width:5;' />
+  <path id='__line_Fuerza__Vecinal__«FV»' d='M 7606 8752 L 7685 8752' stroke='#B27F13' style='stroke-width:5;' />
+  <path id='__line_Nuevo__Liderazgo__Vecinal__«NLV»' d='M 7606 8777 L 7685 8777' stroke='#00513A' style='stroke-width:5;' />
+  <path id='__line_Partido__De__Acción__Zuliana__«PAZ»' d='M 7606 8802 L 7685 8802' stroke='#F0C71C' style='stroke-width:5;' />
 </g>
 
 <g inkscape:label='Dots' inkscape:groupmode='layer' id='layer_dots'
@@ -3405,6 +3409,7 @@ style='opacity:0.6;' >
   <circle id='__dot_Cambiemos__Movimiento__Ciudadano__«CMC»' cx='7495' cy='8477' r='7' fill='#872183' stroke='none' />
   <circle id='__dot_Por__Ti__Venezuela__«PTV»' cx='7495' cy='8502' r='7' fill='#2177c8' stroke='none' />
   <circle id='__dot_Acción__Ciudadana__En__Positivo__«ACEP»' cx='7495' cy='8527' r='7' fill='#8b3cb8' stroke='none' />
+    <circle cx='7663' cy='8527' r='5' fill='#8b3cb8' stroke='none' />
   <circle id='__dot_Soluciones__Para__Venezuela__«SPV»' cx='7495' cy='8552' r='7' fill='#e88c07' stroke='none' />
   <circle id='__dot_Partido__Independiente__De__Venezuela__«PIV»' cx='7495' cy='8577' r='7' fill='#c0c9aa' stroke='none' />
   <circle id='__dot_Movimiento__Político__Caracas__Para__Todos__«MPCPT»' cx='7606' cy='8602' r='7' fill='#4E310E' stroke='none' />
@@ -3799,6 +3804,7 @@ style='opacity:0.6;' >
   <a xlink:href='http://www4.cne.gob.ve/web/normativa_electoral/elecciones/2018/denominaciones/documentos/aviso_oficial_inscripcion.pdf'><text x='7502' y='8472'  >Cambiemos Movimiento Ciudadano «CMC»</text></a>
   <a xlink:href='http://www4.cne.gob.ve/web/normativa_electoral/elecciones/2018/denominaciones/documentos/aviso_oficial_inscripcion.pdf'><text x='7502' y='8497'  >Por Ti Venezuela «PTV»</text></a>
   <a xlink:href='http://www4.cne.gob.ve/web/normativa_electoral/elecciones/2018/denominaciones/documentos/aviso_oficial_inscripcion.pdf'><text x='7502' y='8522'  >Acción Ciudadana En Positivo «ACEP»</text></a>
+    <a xlink:href='https://es.wikipedia.org/wiki/Primero_Venezuela'><text x='7796' y='8522' >Primero Venezuela «PV»</text></a>
   <a xlink:href='http://www4.cne.gob.ve/web/normativa_electoral/elecciones/2018/denominaciones/documentos/aviso_oficial_inscripcion.pdf'><text x='7502' y='8547'  >Soluciones Para Venezuela «SPV»</text></a>
   <a xlink:href='http://www4.cne.gob.ve/web/normativa_electoral/elecciones/2018/denominaciones/documentos/aviso_oficial_inscripcion.pdf'><text x='7502' y='8572'  >Partido Independiente De Venezuela «PIV»</text></a>
   <a xlink:href='https://es.scribd.com/document/467850705/Partidos-Regionales-2020'><text x='7613' y='8597'  >Movimiento Político Caracas Para Todos «MPCPT»</text></a>
@@ -4025,7 +4031,7 @@ style='opacity:0.6;' >
   <text x='86' y='638'><tspan style='font-size:32px;font-weight:bold;'>Partidos Políticos de Venezuela</tspan></text>
   <text x='86' y='661'><tspan style='font-size:16px;'>Siglos XX y XXI</tspan></text>
   <text x='86' y='681'><tspan style='font-size:16px;'></tspan></text>
-  <text x='86' y='701'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 2020.08.08</tspan></tspan></text>
+  <text x='86' y='701'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 2020.12.12</tspan></tspan></text>
   <text x='86' y='721'><tspan style='font-size:16px;'></tspan></text>
   <text x='86' y='741'><tspan style='font-size:16px;'>© <a href='https://github.com/davidhdz/ppvTimeline'><tspan style='text-decoration:underline'>David A. Hernández Aponte</tspan></a></tspan></text>
   <text x='86' y='761'><tspan style='font-size:16px;'></tspan></text>
